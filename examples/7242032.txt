@@ -1,0 +1,49 @@
+Content-Description: Mail
+X-Muni-Spam-Testip: 154.0.13.206
+Content-Transfer-Encoding: 8bit
+X-Spam-Flag: YES
+X-Spam-Status: Yes, score=40.8 required=5.0 tests=ADVANCE_FEE_2_NEW_FORM, ADVANCE_FEE_2_NEW_FRM_MNY,ADVANCE_FEE_2_NEW_MONEY,ADVANCE_FEE_3_NEW, ADVANCE_FEE_3_NEW_FORM,ADVANCE_FEE_3_NEW_FRM_MNY,ADVANCE_FEE_3_NEW_MONEY, ADVANCE_FEE_4_NEW,ADVANCE_FEE_4_NEW_FORM,ADVANCE_FEE_4_NEW_FRM_MNY, ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_FORM, ADVANCE_FEE_5_NEW_FRM_MNY,ADVANCE_FEE_5_NEW_MONEY,DEAR_BENEFICIARY, FILL_THIS_FORM,FILL_THIS_FORM_LONG,FORM_FRAUD_5,FREEMAIL_FROM, FREEMAIL_REPLYTO,LOTS_OF_MONEY,MISSING_MID,MONEY_ATM_CARD,MONEY_FRAUD_3, MONEY_FRAUD_5,RCVD_IN_RP_RNBL,RCVD_IN_SORBS_SPAM,SPF_SOFTFAIL,SUBJ_ALL_CAPS, URG_BIZ autolearn=disabled version=3.3.2
+Subject: IMMEDIATE RESPONS
+Date: Sat, 08 Jan 2022 06:50:56 -0800
+MIME-Version: 1.0
+X-RT-Incoming-Encryption: Not encrypted
+From: "United Bank for Africa" <monneytransfery@gmail.com>
+X-Spam-Level: ****************************************
+Message-ID: <202201091005.209A52xl047941@minas.ics.muni.cz>
+To: "Recipients" <monneytransfery@gmail.com>
+X-Greylist: IP, sender and recipient auto-whitelisted, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Sun, 09 Jan 2022 11:05:04 +0100 (CET)
+X-Muni-Envelope-To: csirt@muni.cz
+X-Filter-Version: 1.15 (minas)
+X-Muni-O365-Test: monneytransfery@gmail.com,csirt@muni.cz
+X-Virus-Status: Clean
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 209A5852027677; Sun, 9 Jan 2022 11:05:09 +0100
+Received: from exchange2.furnbed.co.za (exchange2.furnbed.co.za [154.0.13.206]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 209A52xl047941; Sun, 9 Jan 2022 11:05:03 +0100
+Received: from [195.133.18.100] (_gateway [192.168.100.210]) by exchange2.furnbed.co.za (Postfix) with ESMTP id 3BF6F482B19; Sat,  8 Jan 2022 16:51:01 +0200 (SAST)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+X-MIME-Autoconverted: from quoted-printable to 8bit by rt.csirt.muni.cz id 209A5852027677
+Reply-To: ubaafriicaa@gmail.com
+X-Muni-Envelope-From: monneytransfery@gmail.com
+content-type: text/plain; charset="utf-8"
+From monneytransfery@gmail.com Sun Jan  9 11:05:09 2022
+X-RT-Original-Encoding: iso-8859-1
+X-RT-Interface: Email
+Content-Length: 1635
+
+Attention Beneficiary
+Latest development, we bring to your notice:thatdue to bad network we are having here in Africa we could not be able to complete your transfer through Bank to bank transfer Or online Transfer as programmed.Our network here will not carry on the programming, so we decided to use ATM MASTER CARD method to finalize the transaction.We have programmed an ATM MASTER CARD with your name and uploaded your total fund of (US$4.5Million) in the Card so that you will be withdrawing with it in any ATM MACHINE. The ATM MASTER CARD works worldwide and the daily amount WITHDRAW according to our programming system is(US$9,000.00) Fifteen Thousand Dollars only.
+I Mr.Tony Elumelu, have made the delivery arrangement with DHL DELIVERY COMPANY NIGERIA that will carry on the delivery to your home address and their director told me that Delivery of the ATM MASTER CARD to your house will be smooth with out delay.He assured me that their Company takes good 4-days to complete any delivery registered with accurate address. So you are advised to send your full address such as:
+Full Name:____________________
+Home Address:________________
+Country:______________________
+State:________________________
+City:_________________________
+Zip code:_____________________
+Telephone Number:_____________
+Please your urgent reply will be appreciated for immediate registering of your ATM CARD.YOUR FUND HAS BEEN CREDITED INTO ATM CARD, reply back only on this email ubaafriica@gmail.com
+
+YOUR FUND HAS BEEN CREDITED INTO ATM CARD, reply back only on this email  ubaafriica@gmail.com
+
+Mr.Tony Elumelu
+United Bank of Africa (UBA-NIGERIA)
+

@@ -1,0 +1,641 @@
+X-Greylist: Sender passed SPF test, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Sun, 06 Feb 2022 04:48:12 +0100 (CET)
+content-type: text/html; charset="utf-8"
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=6479ef9d&t=lun&midToken=a2f96369b4473f&ek=email_notification_single_search_appearance_03&li=7&m=unsub&ts=unsub&loid=dc781a359518416c56d7a5395d3f9de69fcef5ed1c>
+X-Linkedin-ID: 2a33f934a351ff2fef322e19e4c84f4e
+MIME-Version: 1.0
+X-Spam-Flag: YES
+X-Muni-Spam-Testip: 178.128.54.192
+X-Linkedin-FBL: b3293717f4c278b35422c5789a5724936f2b
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+X-Muni-Envelope-To: csirt-info@muni.cz
+X-Spam-Status: Yes, score=9.1 required=5.0 tests=HTML_MESSAGE,MIME_HTML_ONLY, RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_SORBS_DUL,RCVD_IN_SORBS_SPAM,SPF_HELO_PASS, SPF_PASS,T_RP_MATCHES_RCVD autolearn=disabled version=3.3.2
+From: "LinkedIn" <gawayne-kerarrat@host.mozire.com>
+X-Linkedin-Template: email_notification_single_search_appearance_03
+Content-ID: html-body
+Subject: People are looking at your profile
+X-RT-Incoming-Encryption: Not encrypted
+Require-Recipient-Valid-Since: csirt-info@muni.cz; Sun, 6 Feb 2022 03:48:11 +0000
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 2163mGe1008655 for <rt-info@rt.csirt.muni.cz>; Sun, 6 Feb 2022 04:48:17 +0100
+Received: from host.mozire.com (host.mozire.com [178.128.54.192]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 2163m8L9024809 for <csirt-info@muni.cz>; Sun, 6 Feb 2022 04:48:11 +0100
+Rewards-Antidisestablishmentarianism: 9DBDD43AD6CE6DEC
+X-Spam-Level: *********
+X-Virus-Status: Clean
+X-Linkedin-Class: EMAIL-DEFAULT
+Content-Transfer-Encoding: base64
+To: "csirt-info@muni.cz" <csirt-info@muni.cz>
+X-Filter-Version: 1.15 (minas)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+Message-ID: <82ead.7e86bfce4e876@host.mozire.com>
+Date: Sun, 6 Feb 2022 03:48:11 +0000 (UTC)
+X-Muni-Envelope-From: gawayne-kerarrat@host.mozire.com
+Thermostats-Litmus: 8861
+From gawayne-kerarrat@host.mozire.com Sun Feb  6 04:48:17 2022
+X-Muni-O365-Test: gawayne-kerarrat@host.mozire.com,csirt-info@muni.cz
+Feedback-ID: email_notification_single_search_appearance_03:linkedin
+X-RT-Original-Encoding: utf-8
+X-RT-Interface: Email
+Content-Length: 22846
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> 
+   
+   <head>    
+  
+   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">   
+    
+ 
+   <meta name="HandheldFriendly" content="true">    <meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0">   
+
+   <meta name="viewport" content="width=device-width">    <title></title>    <!--[if mso]>    <style type="text/css">   
+    
+   body {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+
+
+  
+   .phoenix-email-container {width: 512px !important;}    </style>    <![endif]-->    <!--[if IE]>    <style type="text/css">  
+  
+   .phoenix-email-container {width: 512px !important;} 
+
+    
+
+   </style>
+   
+
+    
+
+   <![endif]-->    <style type="text/css">    @media only screen and (max-width:32em) { .phoenix-email-container { width:100% !important; } }    @media only screen and (max-width:20em) {}    @media only screen and (max-device-width:30em) {}    @media screen and (device-width:30em) and (device-height:22.5em), screen and (device-width:22.5em) and (device-height:30em), screen and (device-width:20em) and (device-height:15em) {}  
+   @media screen and (-webkit-min-device-pixel-ratio:0) {}    
+   
+   @media screen and (max-device-width:25.88em) and (max-device-height:48.5em) {}    @media only screen and (min-width:30.06em) { .phoenix-app-activation-footer-content&gt;tbody&gt;tr&gt;td { text-align:left; } .phoenix-app-activation-footer-screenshot&gt;tbody&gt;tr&gt;td { padding:16px 0 0 0; } }    </style>   </head> 
+
+  
+  
+   
+    
+  
+  <body style="padding:0;margin:0 auto;-webkit-text-size-adjust:100%;width:100% !important;-ms-text-size-adjust:100%;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+ 
+   
+  
+  <div style="overflow:hidden;color:transparent;visibility:hidden;mso-hide:all;width:0;font-size:0;opacity:0;height:0;">   You appeared in 3 searches this week  
+  
+  
+
+  </div>    
+    
+ 
+
+   
+ 
+  <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#EDF0F3" style="background-color:#EDF0F3;table-layout:fixed;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">   <tbody>    <tr>     <td align="center" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 	 <center style="width:100%;"> 
+   
+    
+   
+
+ 	  <table border="0" class="phoenix-email-container" cellspacing="0" cellpadding="0" width="512" bgcolor="#FFFFFF" style="background-color:#FFFFFF;margin:0 auto;max-width:512px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;width:inherit;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 
+	  <tbody> 	   <tr> 	    <td bgcolor="#F6F8FA" style="background-color:#F6F8FA;padding:5px 16px 13px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-bottom:1px solid #ECECEC;"> 
+    
+   
+  
+   
+ 		 <table border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;width:100% !important;mso-table-lspace:0pt;-ms-text-size-adjust:100%;min-width:100% !important;">
+ 
+   
+		 <tbody>
+  
+ 
+		  <tr>    
+    
+
+   
+		   <td align="left" valign="middle" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 		    <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" style="cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">    
+  
+			 <img alt="LinkedIn" border="0" src="https://static.licdn.com/scds/common/u/img/icon/apple-touch-icon.png" height="42" style="outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"> 
+  
+
+    
+			</a>
+   
+ 
+
+           </td> 		   <td valign="middle" width="100%" align="right" style="padding:0 0 0 10px;padding-top:7px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 		    <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" style="cursor:pointer;margin:0;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">
+    
+			 <span style="word-wrap:break-word;color:#4C4C4C;word-break:break-word;font-weight:400;-ms-word-break:break-all;font-size:14px;line-height:1.429;overflow-wrap:break-word;">
+
+			 
+ 
+ 
+			 </span> 			</a> 
+   
+           </td>    
+		   <td width="1" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">&nbsp;</td>  
+  
+
+		  </tr> 
+ 
+  
+  
+  
+		 </tbody> 
+ 
+    
+		 </table> 
+   
+
+    
+
+		</td> 
+
+    
+       </tr>    
+    
+	   <tr> 
+    
+   
+	    <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">
+
+
+         <table border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">   
+    
+
+
+    
+		 <tbody>  
+   
+ 
+  
+		  <tr> 		   <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 
+  
+             <table border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 			<tbody>   
+  
+			 <tr> 			  <td style="padding:16px 24px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">     
+    
+    
+  
+               <table border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 			   <tbody> 			    <tr>  
+  
+   
+				 <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="auto" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 				  <tbody> 
+    
+   
+    
+				   <tr> 				    <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 					 <img src="https://static.licdn.com/scds/common/u/images/email/artdeco/illustrations/56/magnifying-glass.png" height="56" width="56" alt="" style="outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;">    
+
+  
+   
+
+					</td>                    </tr>    
+  
+   
+				  </tbody>
+ 
+
+				  </table>   
+   
+   
+				 </td> 
+  
+				</tr> 				<tr> 				 <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">
+    
+
+   
+
+   
+  
+				  <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center" style="max-width:396px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:4px;text-align:center;"> 				  <tbody>   
+ 
+				   <tr> 				    <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 					 <h2 style="margin:0;color:#262626;font-weight:400;font-size:16px;line-height:1.5;"> 					 You appeared in 3 searches this week    
+    
+   
+ 
+					 </h2>    
+
+					</td>    
+                   </tr>
+ 
+ 
+    
+    
+				  </tbody>    
+ 
+				 </table>   
+
+ 
+    
+ 
+ 				</td>                </tr> 			   <tr> 			    <td align="center" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:4px;text-align:center;"> 				 <h2 style="margin:0;color:#6A6C6D;font-weight:400;font-size:16px;line-height:1.5;"> 				 You were found by people from these companies    
+    
+    
+
+				 </h2>  
+ 
+
+				</td>
+			   </tr> 			   <tr>    
+
+  
+
+			    <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">   
+   
+    
+    
+   
+  
+  
+				 <table align="center" border="0" cellspacing="0" cellpadding="0" width="auto" style="padding:12px 0 4px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 				 <tbody>  
+   
+  
+				  <tr> 				   <td align="center" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:4px;text-align:center;">  
+ 
+					<table align="center" border="0" cellspacing="0" cellpadding="0" width="auto" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">  
+    
+					<tbody>  
+
+  
+					 <tr>   
+    
+ 
+
+					  <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 					   <img alt="Avanade" border="0" height="40" width="40" src="https://www.apple.com/favicon.ico" style="outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;padding-right:4px;"> 					  </td> 					 </tr>
+
+					</tbody> 					</table>  
+
+   
+  
+  
+				   </td>  
+				  </tr> 				 </tbody>
+ 
+  
+				 </table>  
+				</td> 			   </tr> 			   <tr> 
+    
+  
+
+			    <td align="center" style="padding-top:8px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> 				 <span style="padding-right:6px;direction:ltr;">  				  <table border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;display:inline-block;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">  
+ 
+ 
+  
+   
+				  <tbody> 				   <tr>   
+				    <td align="center" valign="middle" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">    
+    
+
+    
+					 <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" target="_blank" style="cursor:pointer;word-wrap:normal;color:#008CC9;word-break:normal;white-space:nowrap;-webkit-text-size-adjust:100%;display:block;text-decoration:none;-ms-text-size-adjust:100%;overflow-wrap:normal;">  					  <table border="0" cellspacing="0" cellpadding="0" width="auto" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">
+					  <tbody>  
+ 
+ 
+    
+					   <tr>  
+
+					    <td bgcolor="#008CC9" style="padding:6px 16px;color:#FFFFFF;-webkit-text-size-adjust:100%;font-weight:500;font-size:16px;-ms-text-size-adjust:100%;border-color:#008CC9;background-color:#008CC9;border-radius:2px;mso-table-rspace:0pt;mso-table-lspace:0pt;border-width:1px;border-style:solid;"> 						 <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" target="_blank" style="cursor:pointer;color:#FFFFFF;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">
+   
+    
+						 Who's looking? 						 </a>    
+						</td>   
+					   </tr> 					  </tbody> 					  </table>  					 </a> 				    </td>  
+				   </tr>    
+
+				  </tbody> 				  </table>   
+  
+ 				 </span> 				</td> 			   </tr>   
+    
+ 
+   
+			  </tbody>   
+
+ 
+    
+
+			  </table>  			 </td>  
+
+ 
+
+    
+			</tr> 		   </tbody>   
+		   </table>     
+  
+   
+   
+		   <table border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;font-family:Helvetica,Arial,sans-serif;" width="100%"> 		   <tbody> 		    <tr> 			 <td style="padding-top:20px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">  
+ 
+  
+			  <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#0073B1" style="background-color:#0073B1;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 			  <tbody>
+			   <tr> 			    <td valign="bottom" align="center" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;vertical-align:bottom;-ms-text-size-adjust:100%;font-size:0;text-align:center;">   
+  
+  
+  
+ 				 <!--[if (gte mso 9)|(IE)]> 				 <table width="250" align="left" cellpadding="0" cellspacing="0" border="0"> 				 <tr> 
+				 <td style="padding-left:16px;"> 				 <![endif]-->    
+    
+				 <table border="0" class="phoenix-app-activation-footer-content" cellspacing="0" cellpadding="0" width="250" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;display:inline-block;mso-table-lspace:0pt;width:250px;-ms-text-size-adjust:100%;"> 				 <tbody>    
+    
+				  <tr> 				   <td width="250" align="center" style="padding:24px 6px 20px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;width:250px;-ms-text-size-adjust:100%;text-align:center;"> 
+   
+ 
+ 				    <table border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 					<tbody> 					 <tr>   
+  
+  
+					  <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:8px;">    
+  
+
+    
+					   <h2 style="margin:0;color:#FFFFFF;font-weight:200;font-size:18px;padding-bottom:8px;line-height:1.333;"> 					   Get the LinkedIn app. 					   </h2> 					  </td> 
+ 
+
+    
+    
+					 </tr> 					 <tr> 
+    
+ 
+					  <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:16px;">    
+					   <p style="margin:0;color:#FFFFFF;font-weight:400;font-size:14px;line-height:1.429;">    
+    
+   
+    
+
+					   Stay updated wherever you are 					   </p>   
+    
+    
+					  </td> 
+   
+
+  
+ 
+					 </tr> 					 <tr>  
+
+  
+    
+
+					  <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">  
+   
+ 
+
+ 					   <table border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;display:inline-block;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 					   <tbody> 					    <tr> 						 <td align="center" valign="middle" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">  
+
+   
+    
+						  <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" target="_blank" style="cursor:pointer;word-wrap:normal;color:#008CC9;word-break:normal;white-space:nowrap;-webkit-text-size-adjust:100%;display:block;text-decoration:none;-ms-text-size-adjust:100%;overflow-wrap:normal;">   
+
+						   <table border="0" cellspacing="0" cellpadding="0" width="auto" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> 
+
+						   <tbody> 						    <tr> 							 <td style="border-radius:2px;padding:6px 16px;color:#FFFFFF;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;font-weight:500;mso-table-lspace:0pt;font-size:16px;-ms-text-size-adjust:100%;border-color:#FFFFFF;border-width:1px;border-style:solid;"> 							  <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" target="_blank" style="cursor:pointer;color:#FFFFFF;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">
+ 
+   
+    
+
+							  Download for free
+  
+    
+    
+							  </a>  
+
+   
+ 
+							 </td> 							</tr>   
+ 
+   
+  
+						   </tbody>
+
+ 
+						   </table>  
+
+    
+   
+   
+						  </a>    
+						 </td> 						</tr> 					   </tbody>  
+					   </table>  
+
+ 					  </td>  
+    
+    
+   
+    
+					 </tr>
+   
+   
+    
+					</tbody>    
+    
+
+					</table> 
+    
+    
+   
+ 
+  
+ 
+  
+  
+				   </td> 				  </tr>   
+				 </tbody>   
+ 
+    
+ 
+ 
+				 </table>   
+  
+    
+ 
+    
+ 
+
+  
+    
+  
+				 <!--[if (gte mso 9)|(IE)]> 
+
+ 
+
+				 </td> 				 </tr> 				 </table>    
+				 <![endif]--> 
+   
+  
+				 <!--[if (gte mso 9)|(IE)]> 				 <table width="228" align="left" cellpadding="0" cellspacing="0" border="0"> 				 <tr> 				 <td style="padding-top: 24px;"> 				 <![endif]-->  
+   
+    
+   
+				 <table border="0" class="phoenix-app-activation-footer-screenshot" cellspacing="0" cellpadding="0" width="228" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;display:inline-block;mso-table-lspace:0pt;width:228px;-ms-text-size-adjust:100%;">
+				 <tbody> 				  <tr>
+ 
+ 
+
+				   <td width="228" style="padding:0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;width:228px;-ms-text-size-adjust:100%;height:143px;"> 				    <img src="https://static.licdn.com/scds/common/u/images/email/phoenix/modules/app_activation_footer/photo_appactivation_screenshot_universal_456x286_v1.png" height="143" width="228" alt="" style="outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"> 				   </td>   
+
+   
+
+				  </tr> 
+
+ 
+				 </tbody> 				 </table>  				 <!--[if (gte mso 9)|(IE)]> 
+				 </td>
+
+
+   
+				 </tr> 
+ 
+
+				 </table> 				 <![endif]-->    
+ 				</td>   
+    
+			   </tr>
+
+			  </tbody> 			  </table> 
+  
+   
+ 			 </td>
+ 
+    
+ 
+			</tr>    
+    
+
+		   </tbody>
+    
+  
+    
+		   </table>   
+
+
+    
+   
+
+
+		  </td>  
+    
+		 </tr>   
+    
+
+  
+		</tbody> 
+ 
+		</table>  
+  
+
+	   </td> 	  </tr> 	  <tr> 	   <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">  	    <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#EDF0F3" align="center" style="background-color:#EDF0F3;padding:0 24px;color:#6A6C6D;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;">    
+
+  
+		<tbody> 
+		 <tr>
+		  <td align="center" style="padding:16px 0 0 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;">  
+ 
+   
+    
+		   <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">  
+		   <tbody> 		    <tr> 			 <td valign="middle" align="center" style="padding:0 0 16px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;vertical-align:middle;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;">  
+ 
+   
+    
+
+			  <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" style="cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:underline;display:inline-block;-ms-text-size-adjust:100%;">
+			   <span style="color:#6A6C6D;font-weight:400;text-decoration:underline;font-size:12px;line-height:1.333;"> 			   Unsubscribe 			   </span> 			  </a>&nbsp;&nbsp;|&nbsp;&nbsp;  
+			  <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" style="cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:underline;display:inline-block;-ms-text-size-adjust:100%;">
+ 
+   
+
+			   <span style="color:#6A6C6D;font-weight:400;text-decoration:underline;font-size:12px;line-height:1.333;">    
+    
+			   Help 			   </span> 			  </a> 			 </td> 			</tr> 		   </tbody>
+    
+  
+    
+  
+		   </table>     
+   
+   
+		  </td> 		 </tr> 
+		 <tr> 		  <td style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">   
+
+   
+    
+    
+   
+  
+ 
+  
+		   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">   
+		   <tbody>   
+   
+ 
+    
+		    <tr> 			 <td align="center" style="padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;">  
+ 
+			  <p style="margin:0;color:#6A6C6D;font-weight:400;font-size:12px;line-height:1.333;">
+
+ 
+    
+ 
+			  You are receiving LinkedIn notification emails.  
+
+    
+ 
+			  </p>
+    
+			 </td> 			</tr> 			<tr> 			 <td align="center" style="padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;">   
+   
+    
+   
+			  <p style="margin:0;word-wrap:break-word;color:#6A6C6D;word-break:break-word;font-weight:400;-ms-word-break:break-all;font-size:12px;line-height:1.333;overflow-wrap:break-word;">
+   
+  
+  
+  
+			  This email was intended for csirt-info@muni.cz   
+    
+    
+			   <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" style="cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:underline;display:inline-block;-ms-text-size-adjust:100%;">
+			   Learn why we included this. 
+ 
+    
+			   </a>    
+
+ 
+			  </p> 
+ 
+ 
+   
+			 </td>
+  
+ 
+			</tr> 			<tr> 			 <td align="center" style="padding:0 0 8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> 			  <a href="http://mfurqan.com/denotationsm.php?utm_source=181&utm_content=616ea4" style="cursor:pointer;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:underline;display:inline-block;-ms-text-size-adjust:100%;">  
+ 
+    
+   
+   
+			   <img alt="LinkedIn" border="0" height="14" src="https://static.licdn.com/scds/common/u/images/email/phoenix/logos/logo_phoenix_footer_darkgray_197x48_v1.png" width="58" style="outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;display:block;text-decoration:none;"> 			  </a> 			 </td> 			</tr> 			<tr> 			 <td align="center" style="padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> 			  <p style="margin:0;color:#6A6C6D;font-weight:400;font-size:12px;line-height:1.333;"> 			  © 2022 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085. LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn. 
+  
+   
+
+   
+			  </p> 			 </td> 			</tr> 		   </tbody>  
+ 
+		   </table>  		  </td>  
+		 </tr>
+  
+
+		</tbody>  
+		</table>   
+   
+ 
+   
+   
+	   </td> 	  </tr> 	 </tbody> 	 </table>  
+ 	 </center> 	</td>    </tr>
+   
+ 
+   
+   
+  </tbody>   
+    
+ 
+
+  </table>     
+ 
+ </body>   
+ 
+  
+   
+ </html> 

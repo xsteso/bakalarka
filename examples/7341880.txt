@@ -1,0 +1,136 @@
+Message-ID: <915c11.d951.bc77c35f9@vh258.timeweb.ru>
+X-Muni-Spam-Testip: 5.23.50.111
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+X-Filter-Version: 1.15 (minas)
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 2172CCZx011145 for <rt@rt.csirt.muni.cz>; Mon, 7 Feb 2022 03:12:13 +0100
+Received: from vh258.timeweb.ru (vh258.timeweb.ru [5.23.50.111]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 2172C7lL049119 for <csirt@muni.cz>; Mon, 7 Feb 2022 03:12:08 +0100
+Date: Mon, 7 Feb 2022 05:12:08 -0000
+X-Muni-O365-Test: redisplaying@vh258.timeweb.ru,csirt@muni.cz
+X-RT-Incoming-Encryption: Not encrypted
+X-Muni-Envelope-From: redisplaying@vh258.timeweb.ru
+From redisplaying@vh258.timeweb.ru Mon Feb  7 03:12:13 2022
+YRFYBML-CV: 61ea385d
+X-Spam-Level: *************
+From: "International Courier Services" <redisplaying@vh258.timeweb.ru>
+Content-Transfer-Encoding: base64
+X-Spam-Status: Yes, score=13.5 required=5.0 tests=DATE_IN_FUTURE_03_06, HTML_MESSAGE,MIME_HTML_ONLY,RCVD_IN_RP_RNBL,RCVD_IN_SORBS_SPAM,SPF_HELO_PASS, SPF_PASS,T_RP_MATCHES_RCVD,URIBL_JP_SURBL,URIBL_PH_SURBL autolearn=disabled version=3.3.2
+X-Greylist: Sender passed SPF test, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Mon, 07 Feb 2022 03:12:08 +0100 (CET)
+X-Spam-Flag: YES
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+Subject: Ticket id84621
+To: csirt@muni.cz
+X-Muni-Envelope-To: csirt@muni.cz
+X-Virus-Status: Clean
+MIME-Version: 1.0
+content-type: text/html; charset="utf-8"
+X-RT-Original-Encoding: iso-8859-1
+X-RT-Interface: Email
+Content-Length: 1453
+
+<html>
+  
+
+    
+<head>
+ 
+ 
+ <title></title>
+
+ <style>   
+
+    
+  body { 
+ 
+ 
+  font-family: arial;     
+  font-size: 12pt;    
+ 
+  
+    
+  font-weight: normal;  
+ 
+  
+    
+  } 
+    
+  
+    
+ 
+   
+ 
+  hr {   
+ 
+  
+  color: #c0c0c0;   }    span {   font-size: 11pt;    
+  color: #808080;   }    
+
+
+ </style>    
+
+ 
+
+</head>    
+
+  
+<body>    
+
+ <h1>International Courier Services</h1>  
+    
+    
+Ticket id84621   
+
+ <br />  <hr> 
+  
+ 
+   
+   
+ <br />  
+  
+  
+ 
+ 
+
+   
+
+<span> 
+2/07/2022 </span> 
+  <br />
+  
+
+   
+
+  <br />  <b>
+   
+    
+Not possible to make delivery. </b>   <br />   <br />   
+ 
+  
+
+  
+   
+ 
+ 
+<a href="http://www.nvcbiotech.com/wp-content/sycophanticr.php?utm_source=c&utm_content=10" style="font-family:Arial;display:inline-block;padding:7px 15px;background-color:#333366;color:#ffffff;font-size:15px;font-weight:bold;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;border:solid 1px #3d1c76;white-space:nowrap;text-align:center;text-decoration:none"> View details </a>   <br />   <br />   
+   
+
+ 
+    
+
+   
+<hr>    
+ <br />   
+ 
+
+  
+  
+  
+
+   
+<span>   
+  
+
+This notification was sent to csirt@muni.cz. This is an automated email please do not reply to this message.<br /> Change what email International Courier Services sends you. &copy; 2022 International Courier Services.
+</span>  
+
+ </body> </html>   
+

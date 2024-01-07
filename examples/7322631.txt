@@ -1,0 +1,81 @@
+X-Virus-Status:	Clean
+X-Spam-Status:	No, score=0.7 required=5.0 tests=HTML_MESSAGE,MISSING_HEADERS, RCVD_IN_DNSWL_NONE,SPF_HELO_PASS,SPF_PASS,T_DKIM_INVALID,T_HK_SPAMMY_FILENAME, T_RP_MATCHES_RCVD autolearn=disabled version=3.3.2
+MIME-Version:	1.0
+X-Muni-Envelope-From:	webmana12@outlook.com
+X-MS-Exchange-Crosstenant-Fromentityheader:	Hosted
+X-MS-Has-Attach:	yes
+X-MS-Exchange-Crosstenant-RMS-Persistedconsumerorg:	00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Crosstenant-RMS-Persistedconsumerorg:	00000000-0000-0000-0000-000000000000
+X-MS-Publictraffictype:	Email
+Arc-Authentication-Results:	i=1; mx.microsoft.com 1; spf=none; dmarc=none; dkim=none; arc=none
+X-MS-Traffictypediagnostic:	VI1P195MB0367:EE_
+Content-Type:	multipart/mixed; boundary="_004_DB9P195MB14662F62F70ABA7EA88870E3AC269DB9P195MB1466EURP_"
+X-Spam-Checker-Version:	SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+X-Muni-O365-Test:	webmana12@outlook.com,csirt@muni.cz
+Received:	from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 2111mXav024807; Tue, 1 Feb 2022 02:48:34 +0100
+Received:	from EUR05-AM6-obe.outbound.protection.outlook.com (mail-am6eur05olkn2042.outbound.protection.outlook.com [40.92.91.42 ]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 2111mRZm013038 (version=TLSv1/SSLv3 cipher=AES256-GCM-SHA384 bits=256 verify=NOT); Tue, 1 Feb 2022 02:48:29 +0100
+Received:	from DB9P195MB1466.EURP195.PROD.OUTLOOK.COM (2603:10a6:10:324::9 ) by VI1P195MB0367.EURP195.PROD.OUTLOOK.COM (2603:10a6:802:62::15 ) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4930.18; Tue, 1 Feb 2022 01:48:07 +0000
+Received:	from DB9P195MB1466.EURP195.PROD.OUTLOOK.COM ([fe80::571:4366:c5f8:2fc9 ]) by DB9P195MB1466.EURP195.PROD.OUTLOOK.COM ([fe80::571:4366:c5f8:2fc9 %6]) with mapi id 15.20.4930.020; Tue, 1 Feb 2022 01:48:07 +0000
+X-Greylist:	Sender passed SPF test, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Tue, 01 Feb 2022 02:48:29 +0100 (CET)
+X-MS-Exchange-Antispam-Messagedata-Chunkcount:	1
+X-RT-Incoming-Encryption:	Not encrypted
+X-Filter-Version:	1.15 (minas)
+X-Microsoft-Antispam:	BCL:0;
+Předmět:	Prize
+X-MS-Exchange-Crosstenant-ID:	84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Crosstenant-Network-Message-ID:	849f09be-77f3-4200-8c59-08d9e524e4e5
+Authentication-Results:	minas.ics.muni.cz; dkim=pass reason="2048-bit key; insecure key" header.d=outlook.com header.i=@outlook.com header.b=kaIQGc8+; dkim-adsp=pass; dkim-atps=neutral
+In-Reply-To:	<DB9P195MB1466DB2159B3C75F23FCBF99AC269@DB9P195MB1466.EURP195.PROD.OUTLOOK.COM>
+Thread-Index:	AQHYFw0V2z4QIF3rEkiIfFGuguKFWKx9Zy2m
+Arc-Seal:	i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none; b=Q5W1a2XiOsPwwimgnRsaCT42n1xSq2PQM/DIuRyjMU1ioi0JNj4RTXTxb1uTRejJwUOgTnfO8w9AzrzQe3Kq1/CMB1ABadCG5HchMtT0ADGUJy71TT5OhH2Y1w9t9QI8ez7eSLWpZ8gPHRjEQ5OO3HAdSGRIwFi33IBNf5nucFA4Qi/9Pvl5/xIOEitN14UP7HWVKb99D/+2v0f4i177lT1LpMEKLjvpIRKd1rggW6f6FYZu1+Ugv0pK+pTaJIXgxj1puqL6XaIg+N6uKh96cy5uWweA6CQ3jUjzjx9vZG2RmlXO9fWcqnv9zi75c1u72Zls6giTEjotWxvBfOv0wg==
+X-MS-Office365-Filtering-Correlation-ID:	849f09be-77f3-4200-8c59-08d9e524e4e5
+X-Virus-Scanned:	clamav-milter 0.99.4 at minas
+X-TMN:	[YWycy2lwSf7T+u8/sryo+gQuyPm7kypy]
+X-MS-Exchange-Antispam-Messagedata-0:	r8H1PiehaLfY+hU3kvUUQp/ezW/lz7QozWdexAjaQa1lie7jpPSKFZtR36CUns3ujlzFJdWyBjBe2osVV3qFilTFE1nLMsLMiYoDJnvw3u7N9tCInL8HPtgPYy1ApNgQwprlVCBjJ2xSIaa7zDCTYIsC3KZ0kXsG09/iuhW2Cb77K3C1XvA7nsyD/9LKZba/tyb3TCDY1jT7fWNMj+IcGkkQ2D9SDz38MF7OPrMVaoaLMW5VA5xBzv0k/7z1mkVM1cX8R19Jw+oS6/vfgG5wkdXJy99VaHgkLZ/FBgnnzdMJoGbutW2dZZkhahACmTf/1UdndzV8BDqsoE6Of7L839XBiQdOXijXaP6MpFWWwu0bXH4uA4FkvNleSU30Q1ZU2j1zrLb51w1F9oYXNCBWTMan+AxfJzgN7bS0IENpMQMLVR2A95frQglurEkpjTxhLJ9OM9UCiPZCcRXhI6AYCyU7IoaIyywTCaoXflRa0r+WvsugcJhg3Vs9Nd7aratY1oMLORxaYsYgpc8HQ3V2fRfX9sA7foYV72uplNUT2brE/nHxIFxeLILKSsQ7BxIKFTpzyQEHyA/kym71RZn4gExSz/ibjt2AYJGWU0E8KteN7kdEQwMAZiESkwU3HZuSueknhjK7F7s2LnVa/Qr6AFFmSh/EgEGawLXO/ZwwohAbFpmZRDKiPrC6xKCpiPLWwcApooINut9v+JIOomCWeSMsm4DJlOqd3BpnydRnfEqDKcmFMAKTZItDJ+E1HmIkJdAri9miC9DPyytc+tHVzWfmk5EBetzco9bdYYB/733cdNGy1mfUinizJ4ZarvP99DjzgV6piTWuaqgXWnr4GJk43Q1TSedpnZgLrSGIK2LD2WBbPOyZkBbUykwYsrCsmwQ6iUeaHmuJ2FmHmsXNoIwGCVSGbRBylltoNr4x8rWvPUz9fmhNv57Hh4PRTdm5
+X-Muni-Envelope-To:	csirt@muni.cz
+Arc-Message-Signature:	i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector9901; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=QB6WJ0/dhE/YxRq7hxth/0pd0gQB6H6itHw/w0Dquks=; b=FUMfCx+8HHgTgsrNczZCtZNoegV8fzW89MFbZA8A6p8cnA6chvHT+oyh2d/Kcn6KIkHfzD9ulIoW+GD6tZzKI2lr5T1xvPyex4oMR49M08w2yua3sNdwVagS6X43stdaafMUbX7O7YQwYd00Lp+nCWu7uvzBp/XsXrtysw68mluShSrS1TaDzzlxnbA0QC4u7dgujsbT2t0U1eQHgfAkjaDJQEmrd8zYaIzLTIdc3xR0JSXzY2k3MaEIfc2WxRr1ls+QcaiNusmgebys4q4agihacrn3thJOgQLWav4YBpMf3anQ4S7Ue6M6pYIYcM7q0ddv0erJtkwBMHO2f+O18Q==
+References:	<DB9P195MB1466DB2159B3C75F23FCBF99AC269@DB9P195MB1466.EURP195.PROD.OUTLOOK.COM>
+X-Muni-Spam-Testip:	40.92.91.42
+Dkim-Signature:	v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com; s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=QB6WJ0/dhE/YxRq7hxth/0pd0gQB6H6itHw/w0Dquks=; b=kaIQGc8+EfewoqIO7S8PqPMM6GDp2vCx5kTLHt5FOFMQuAoFRh9M2Qxq7usJFjV0Zm71gSF6CLb0ERgQU31izPf2CbuOmj4SMm4k2Oy9OHJ1KsTzPYmd+COJEQ3FfRpPZ1vEuh6YnS9kJv9hNcvz3jQFVmW85uivWT/sfqe767ZZXonToTDb/dYA9YieHg/wU3qbCo2/W/mPoxRs9hz9Qj4jDBJA9KoUa63vSEkYvrjMUPXqhZ5/PhD+mezXelWA2MkWi/nAjyKBC7ZjNcnClzz0u9elnSf9jukCghcMnMUl4FQNMaeiIhYn5ZAuZHgvitRv/6vvdIIzPRs/yp07cg==
+X-MS-Exchange-Messagesentrepresentingtype:	1
+X-MS-Tnef-Correlator:	
+Od:	"Euro-Million Lottery" <webmana12@outlook.com>
+Content-Language:	en-US
+X-MS-Exchange-Crosstenant-Authsource:	DB9P195MB1466.EURP195.PROD.OUTLOOK.COM
+From webmana12@outlook.com Tue Feb 1 02:	48:34 2022
+Accept-Language:	en-US, en-GB
+Thread-Topic:	Prize
+X-Originatororg:	outlook.com
+X-MS-Exchange-Crosstenant-Originalarrivaltime:	01 Feb 2022 01:48:06.9112 (UTC)
+X-MS-Exchange-Crosstenant-Authas:	Internal
+Date:	Tue, 1 Feb 2022 01:48:06 +0000
+X-MS-Exchange-Transport-Crosstenantheadersstamped:	VI1P195MB0367
+X-Microsoft-Antispam-Message-Info:	XBe9JqUF8sMGmFGtU2R/7ZQKqFCxIsl+m2DxNC9OMFvmeLFay5NLfQCKLsKtkvUeCBy4OOFa+Q5uDA9dS7+tX9mcRDIbh3gYkZ12n2gHomk2DPPqywFmxU9eh05phl5wPTAGMsnXIR2N4haloqWojc5TShPaX3i7Nm9nZ6vaGBgHRGjmMlqPx9oz8sm7pbTt9M9V+oOTycMji3qswdaHd17uzSG6wcuGIcfjnFofqTeFB1S4Xw9UBtTDQ5axm+N9+ggkfW3kZ0yrAY9HY3CebfusQG/dVepqqCmKs6rAIUkNIk75H00ykQIDsKdBgzqBcoHyiDS+f4k9mIkGCrUSkITwEeZP7ozDT/YLOIMj+9TWwLl2w8Io2UVnZO+RO8JbZSzVwmu4jaePW1CiFASocmuTX2OyAydpWDNuLYoOq16AI41VOAUdKEo6uiZ4TspUBslpVpmLoBRyuhsn+w1lAReu27efr0T8M4z/39jMFi6Ba2MyqQGpY9jXSAePAiUV5ktB3hf4pxfctmdth7Gd+Q==
+Message-ID:	<DB9P195MB14662F62F70ABA7EA88870E3AC269@DB9P195MB1466.EURP195.PROD.OUTLOOK.COM>
+Suggested_attachment_session_id:	af9b26b0-e15c-7919-9a60-80ee5b95e530
+X-RT-Interface:	Email
+Content-Length:	0
+Content-Transfer-Encoding: quoted-printable
+content-type: text/html; charset="utf-8"
+X-RT-Original-Encoding: iso-8859-1
+Content-Length: 1032
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css" style="display:none;"> P {margin-top:0;margin-bottom:0;} </style>
+</head>
+<body dir="ltr">
+<div style="font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+</div>
+<span style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)"><span style="font-family:&quot;Franklin Gothic Book&quot;,&quot;Avenir Next Condensed&quot;,sans-serif;background-color:rgb(255,255,255);display:inline!important">Please view the attachment:</span>
+</span>
+<div>
+<div dir="ltr">
+<div style="font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<span style="font-family:Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)"><span style="font-family:&quot;Franklin Gothic Book&quot;,&quot;Avenir Next Condensed&quot;,sans-serif; background-color:rgb(255,255,255); display:inline!important"></span></span><br>
+</div>
+</div>
+</div>
+</body>
+</html>

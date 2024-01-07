@@ -1,0 +1,214 @@
+{
+  "APP_TITLE": "Phishing game",
+  "BUTTON": {
+    "CLOSE": "Close",
+    "CANCEL": "Cancel",
+    "SAVE": "Save",
+    "SETTINGS": "Settings",
+    "CONTINUE": "Continue",
+    "UNDRESTAND": "Understand",
+    "ADD": "Add",
+    "ADD_FILES": "Add files",
+    "BACK": "Back",
+    "NEXT": "Next",
+    "PLAY_AGAIN": "Play again",
+    "QUESTIONNAIRE": "Proceed to questionnaire",
+    "DELETE": "Delete",
+    "EXPORT": "Export",
+    "ENABLE": "Enable",
+    "DISABLE": "Disable",
+    "IMPORT": "Import",
+    "HINTS": "Hints",
+    "DETAIL": "Show detail"
+  },
+  "LANGUAGE": {
+    "SELECT": "Select language"
+  },
+  "TABLE": {
+    "SELECTED_1": "selected",
+    "SELECTED_2-4": "selected",
+    "SELECTED_N": "selected",
+    "ROWS_PER_PAGE": "Rows per page",
+    "ALL": "All"
+  },
+  "EMAILS": {
+    "SETTINGS": "Settings",
+    "ID": "ID",
+    "ENABLED": "Enabled",
+    "DISABLED": "Disabled",
+    "TITLE": "E-mails",
+    "BODY": "Body",
+    "DATA": "E-mails data",
+    "STATISTICS": "Statistics",
+    "EDITOR": "Editor",
+    "ADD_SIGN_HINT": "Add sign hint",
+    "REMOVE_SIGN_HINT": "Remove sign hint",
+    "PREVIEW": "Preview",
+    "HINT": {
+      "TITLE": "Pay attention to links and buttons in e-mail",
+      "DESC": "Links and buttons cointained in e-mails could lead to malicious websites which can steal your data, or download a malicious files that can harm your device. Do not click them, unless you are really sure they are legitimate."
+    },
+    "SAVE_SUCCESS": "E-mail saved successfully!",
+    "SUBJECT": "Subject",
+    "SENDER": "Sender",
+    "RECIPIENT": "Recipient",
+    "SENT_AT": "Sent at",
+    "CC": "CC",
+    "REPLY_TO": "Reply to",
+    "OCCURRENCE": "Occurrence",
+    "AVG_DURATION": "Avg. duration",
+    "AVG_CORRECTNESS": "Avg. correctness",
+    "ENABLED_TRUE": "E-mail is currently active. It will be used when generating e-mail sets.",
+    "ENABLED_FALSE": "E-mail is currently inactive. It will not be used until it will be activated again."
+  },
+  "SIGNS": {
+    "TITLE": "Signs",
+    "ONE": "Sign",
+    "NEW": "New sign",
+    "ID": "ID",
+    "HINT": {
+      "TITLE": "Phishing signs hints",
+      "DESC": "Pay attention to the following signs in the e-mail"
+    },
+    "OPTIONS": {
+      "SUSPICIOUS_SENDER": "Suspicious sender",
+      "SENSE_OF_URGENCY": "Sense of urgency",
+      "SUSPICIOUS_LINK": "Suspicious link",
+      "PERSONAL_INFO_REQUEST": "Personal information request",
+      "SUSPICIOUS_OFFER": "Suspicious offer",
+      "GRAMMAR_MISTAKES": "Grammar and stylistics mistakes"
+    }
+  },
+  "TYPES": {
+    "TITLE": "Types",
+    "ONE": "Type",
+    "ID": "ID",
+    "NEW": "New type",
+    "OPTIONS": {
+      "LEGITIMATE": "Legitimate",
+      "SPEAR_PHISHING": "Spear phishing",
+      "PHISHING": "Phishing",
+      "WHALING": "Whaling"
+    }
+  },
+  "LABELS": {
+    "SEARCH": "Search",
+    "NO_ITEMS": "There are no items to display.",
+    "LOADING": "Loading...",
+    "ERROR": "Error occured while loading data. Please check your request or try again later."
+  },
+  "EDITOR": {
+    "TUTORIAL": {
+      "TITLE": "How to manage sign highlights",
+      "STEP_1": "Start with selecting the correct sign type.",
+      "STEP_2": "Select the part of the e-mail you want to highlight in the body editor.",
+      "STEP_3": "Press 'ADD SIGN HINT' button to add selected sign.",
+      "STEP_4": "Hover over highlighted text, to show the sign type.",
+      "STEP_5": "If you want to remove the highlight, select the desired part of the e-mail and press 'REMOVE SIGN HINT' button."
+    }
+  },
+  "INTRO": {
+    "TITLE": "Welcome to Phishing game!",
+    "PLAY": "Play",
+    "HOW_TO": "How to play",
+    "TUTORIAL": {
+      "STEP_1": "At the beginning you need to enter your <span style=\"color: blue\">username</span>, <span style=\"color: red\">age</span> and <span style=\"color: green\">gender</span>. Then hit START to start the game. (We collect these information just for the internal statistics purposes. We dont share them with any third party.)",
+      "STEP_2": "The <span style=\"color: blue\">dots</span> you can see at the top show the number of emails in your gamerun as well as the current email you are working with. Then in the header you can see the email subject, <span style=\"color: red\">email address of the sender</span> and the <span style=\"color: green\">arrival date</span>. Below the line thete is the <span style=\"color: orange\">email body</span>.",
+      "STEP_3": "Your objective in this game is to decide, if the email you are seeing is legitimate or a phishing email. At the bottom you will find three buttons. <span style=\"color: blue\">The first one named HINTS</span> can give you advice about signs you need to look for when deciding. The <span style=\"color: red\">red one marks the e-mail as phishing</span> and the <span style=\"color: green\">green as a legitimate e-mail</span>.",
+      "STEP_4": "After you are done with marking all of the emails in your gamerun you will see the summary page with your result. There you can see <span style=\"color: red\">how many emails you marked correctly</span>, <span style=\"color: green\">how long did it take you to finish the gamerun</span> and lastly the <span style=\"color: blue\">username you used</span> and the <span style=\"color: orange\">date of your gamerun</span>.",
+      "STEP_5": "Below the result summary you can see individual answer to each email. In this detail you can see <span style=\"color: red\">your answer</span>, <span style=\"color: blue\">how long did it take you</span> to decide and also the <span style=\"color: green\">average values</span> for the specific email. At the bottom is the <span style=\"color: orange\">correct answer</span> with the email type.",
+      "STEP_6": "If you are not sure, why did you answer incorrectly, or you just want to look at the email detail again press the SHOW DETAIL button. This will open you an email body detail with <span style=\"color: blue\">highlighted parts</span> indicating the <span style=\"color: red\">phishing signs the email has</span>. To show it hover over it with mouse or press on it on mobile."
+    }
+  },
+  "GAMERUNS": {
+    "TITLE": "Gameruns",
+    "ANSWER": "Answer",
+    "INFO": "Info",
+    "DURATION": "Duration",
+    "AVG_DURATION": "Avg. duration",
+    "AVG_CORRECTNESS": "Avg. correctness",
+    "YOUR_ANSWER": "Your answer is",
+    "EMAIL_RESULT": "This is a {{email_type}} e-mail",
+    "ID": "ID",
+    "PLAYER_NAME": "Player name",
+    "PLAYER_AGE": "Player age",
+    "PLAYER_GENDER": "Player gender",
+    "DATE": "Date",
+    "START_TIME": "Start time",
+    "END_TIME": "End time",
+    "CORRECTLY_ANSWERED": "Correctly  answered",
+    "NUMBER_OF_EMAILS": "Number of e-mails in gamerun"
+  },
+  "LOGIN": {
+    "TITLE": "Login",
+    "SUBMIT": "Submit",
+    "USERNAME": "Username",
+    "PASSWORD": "Password"
+  },
+  "PLAY": {
+    "CORRECT": "Correct",
+    "WRONG": "Wrong",
+    "LEGITIMATE_EMAIL": "This is a legitimate e-mail",
+    "PHISHING_EMAIL": "This is a phishing e-mail",
+    "LEGITIMATE": "Legitimate e-mail",
+    "PHISHING": "Phishing e-mail",
+    "PLAYER": "Player info",
+    "RESULT": "Game finished! ",
+    "RESULT_CORRECT": "Result",
+    "RESULT_DURATION": "Duration",
+    "RESULT_DESC": "Thank you for your time. Please help us improve this application by filling a short questionnaire.",
+    "USERNAME": "Username",
+    "AGE": "Age",
+    "GENDER": "Gender",
+    "START": "Start"
+  },
+  "GENDER": {
+    "MAN": "Male",
+    "WOMAN": "Female",
+    "OTHER": "Other"
+  },
+  "DURATION": {
+    "HOURS": "hours",
+    "MINUTES": "minutes",
+    "SECONDS": "seconds"
+  },
+  "MENU": {
+    "GENERAL": "General",
+    "LOGOUT": "Logout"
+  },
+  "GENERAL": {
+    "SAVE_SUCCESS": "Setting changed successfully!"
+  },
+  "SETTINGS": {
+    "RANGE": "must be in range",
+    "NUMBER_OF_EMAILS": "Number of e-mails in gamerun",
+    "PHISHING_RATIO": "Ratio of phishing e-mails in gamerun (%)",
+    "EMAIL_DATE_SETTING": "Show real email received dates"
+  },
+  "VALIDATION": {
+    "SUBJECT_REQUIRED": "Subject is required.",
+    "RECIPIENT_REQUIRED": "Recipient is required.",
+    "SENDER_REQUIRED": "Sender is required.",
+    "BODY_REQUIRED": "Body is required.",
+    "LEGITIMATE_SIGNS": "Legitimate e-mail cannot have signs.",
+    "PHISHING_SIGNS": "Phishing e-mail has to own at least one sign.",
+    "DATE_FORMAT": "Date time in bad format",
+    "FORM_ERROR": "Check form and fix validation errors.",
+    "USERNAME_BLANK": "Username cannot be blank.",
+    "AGE_BLANK": "Age cannot be blank.",
+    "AGE_FORMAT": "Age has to be in number format.",
+    "AGE_INTERVAL": "Age has to be between 10 and 100."
+  },
+  "ERRORS": {
+    "BAD_CREDENTIALS": "Bad credentials.",
+    "GAMERUN_INIT_ERROR": "Couldn't initialize gamerun. Please check if there is enough legitimate and phishing e-mails according to gamerun settings."
+  },
+  "NOTIFICATIONS": {
+    "DELETE_SUCCESS": "Items deleted successfully.",
+    "ENABLE_SUCCESS": "E-mails activated successfully.",
+    "DISABLE_SUCCESS": "E-mails deactivated successfully."
+  },
+  "DIALOG": {
+    "DELETE": "Do you want to delete selected items ?"
+  }
+}

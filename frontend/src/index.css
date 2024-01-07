@@ -1,0 +1,17 @@
+html,
+body,
+#root,
+#root > div {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* body {
+  background: linear-gradient(380deg, #60d9c2 20%, #f19a3e 80%) no-repeat center
+    center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */

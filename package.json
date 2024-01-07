@@ -1,0 +1,10 @@
+{
+  "name": "phishing-game",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run heroku-build && cd build && cp -a . ../../static"
+  },
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  }
+}

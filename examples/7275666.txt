@@ -1,0 +1,63 @@
+llX-Spam-Status: No, score=4.4 required=5.0 tests=HTML_FONT_SIZE_HUGE, HTML_MESSAGE,MIME_HTML_ONLY,RCVD_IN_SORBS_SPAM,SPF_HELO_PASS,SPF_PASS, T_DKIM_INVALID,T_RP_MATCHES_RCVD autolearn=disabled version=3.3.2
+content-type: text/html; charset="utf-8"
+X-Filter-Version: 1.15 (minas)
+Dkim-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=u-rdps.top; h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=sales@u-rdps.top; bh=0T6m2WhJrmV4o06b9RsK77W8OlQ=; b=mdJLGusEQFWleP1DFUcwvMkqYoEcMZpDUnVzlw0uOLIP3IRwBsw6KpnLIc5vVnAbaFcusWjwwOWT EwIteB7hsYzYy3Jnak/8HqLwoUizytNoOaIbb7hMHPPBtfd4CfLMfruWAqJB55uyjEVzFAWXc6wk 8BditnvloM5otzNZQJc=
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 20J9RYuZ018335 for <rt@rt.csirt.muni.cz>; Wed, 19 Jan 2022 10:27:35 +0100
+Received: from u-rdps.top (u-rdps.top [106.75.108.17]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 20J9RPBa041538 (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT) for <csirt@muni.cz>; Wed, 19 Jan 2022 10:27:30 +0100
+X-Spam-Level: ****
+From: "muni.cz Správce" <sales@u-rdps.top>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Muni-Envelope-From: sales@u-rdps.top
+X-Virus-Status: Clean
+Message-ID: <20220119092718.4BB719E320C0823F@u-rdps.top>
+X-RT-Incoming-Encryption: Not encrypted
+X-Muni-Envelope-To: csirt@muni.cz
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+Disposition-Notification-To: evabakker1840@gmail.com
+Subject: Platnost va?eho hesla vypr?í dnes 19. ledna 2022
+Authentication-Results: minas.ics.muni.cz; dkim=pass reason="1024-bit key; insecure key" header.d=u-rdps.top header.i=sales@u-rdps.top header.b=mdJLGusE; dkim-adsp=pass; dkim-atps=neutral
+To: csirt@muni.cz
+X-Muni-Spam-Testip: 106.75.108.17
+X-Greylist: Sender passed SPF test, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Wed, 19 Jan 2022 10:27:30 +0100 (CET)
+From sales@u-rdps.top Wed Jan 19 10:27:35 2022
+Date: 19 Jan 2022 09:27:18 +0000
+Domainkey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=u-rdps.top; b=eQeyLW5dem/uC6SEK3Hf/c/eiA61Va+wLREou8/qehB740CllIPWCIYKbPZN0FHm1roGzWdVJoiV 1fJNjnPzfKU1plpLdEONUKXlb6+PRNH/sfrBGcoT2gTUBmcHwhNuLkV8/GnGCTPkRJu25jsFkugI NCQHvOT+f9BHiip0G/o=;
+X-Muni-O365-Test: sales@u-rdps.top,csirt@muni.cz
+X-RT-Original-Encoding: iso-8859-1
+X-RT-Interface: Email
+Content-Length: 9391
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<body style="MARGIN: 0.5em">
+<P style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(34,34,34); TEXT-ALIGN: center; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; LINE-HEIGHT: normal' size=+0>
+<SPAN style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; FONT-SIZE: xx-large; LINE-HEIGHT: normal'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal' color=#274e13 size=7 face="arial, sans-serif">
+<A style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; CURSOR: pointer; TEXT-DECORATION: underline; COLOR: rgb(34,34,34); LINE-HEIGHT: normal' rel="noopener noreferrer" target=_blank>muni.cz</A></FONT></FONT></SPAN></FONT></P>
+<DIV style='BORDER-LEFT-WIDTH: 0px; QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: baseline; WHITE-SPACE: normal; BORDER-BOTTOM-WIDTH: 0px; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; FONT: 400 14px Arial, Helvetica, sans-serif; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: 
+rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; LINE-HEIGHT: normal' face="arial, sans-serif"><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'>
+Ahoj csirt</FONT></FONT><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'>,</FONT></FONT></FONT></DIV>
+<P style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; LINE-HEIGHT: normal' face="arial, sans-serif">
+<SPAN style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; TEXT-ALIGN: center; LINE-HEIGHT: normal'></SPAN></FONT></P>
+<DIV style='BORDER-LEFT-WIDTH: 0px; QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: baseline; WHITE-SPACE: normal; BORDER-BOTTOM-WIDTH: 0px; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; FONT: 400 14px Arial, Helvetica, sans-serif; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: 
+rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal' face="arial, sans-serif">
+Platnost hesla pro&nbsp;<A style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; CURSOR: pointer; TEXT-DECORATION: underline; COLOR: rgb(34,34,34); LINE-HEIGHT: normal' rel="noopener noreferrer" target=_blank>csirt@muni.cz</A>&nbsp;dnes vypr&#353;&iacute;</FONT></FONT></DIV>
+<DIV style='BORDER-LEFT-WIDTH: 0px; QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: baseline; WHITE-SPACE: normal; BORDER-BOTTOM-WIDTH: 0px; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; 
+text-decoration-color: initial'>
+<P style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; FONT-SIZE: 14px; MARGIN: 1em 0px; LINE-HEIGHT: normal'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal' face="arial, sans-serif"><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'>Chcete-li pokra&#269;ovat s aktu&aacute;ln&iacute;m heslem, pou&#382;ijte tla&#269;&iacute;tko n&iacute;&#382;e</FONT>
+ <FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'>&nbsp;</FONT></FONT></P>
+<P style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; FONT-SIZE: 14px; MARGIN: 1em 0px; LINE-HEIGHT: normal'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; LINE-HEIGHT: normal' face="arial, sans-serif"></FONT>&nbsp;</P>
+<P style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; FONT-SIZE: 14px; MARGIN: 1em 0px; LINE-HEIGHT: normal'>
+<A style='BORDER-LEFT-WIDTH: 0px; QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; FONT-SIZE: 16px; CURSOR: pointer; TEXT-DECORATION: underline; BORDER-RIGHT-WIDTH: 0px; WIDTH: 290px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM-WIDTH: 0px; FONT-WEIGHT: bolder; COLOR: rgb(248,248,248); PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; MARGIN: 0px auto; LINE-HEIGHT: normal; PADDING-RIGHT: 10px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: rgb(0,0,0); font-stretch: inherit' 
+href="https://zpr.io/PbbQkjdK2D3q#csirt@muni.cz" rel="noreferrer nofollow noopener" target=_blank data-saferedirecturl="https://www.google.com/url?q=https://tgrce5d2a2e516109af440f0219a.web.app/%23%5B%5B-Email-%5D%5D&amp;source=gmail&amp;ust=1636242866485000&amp;usg=AFQjCNE3qSG5jzvbTEOzTFj3FI2zX6D0aA"><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'>
+<FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal' face="arial, sans-serif">Udr&#382;ujte heslo</FONT></FONT></A></P>
+<DIV style='BORDER-LEFT-WIDTH: 0px; QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; FONT-SIZE: 14px; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: normal; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; LINE-HEIGHT: normal' face="arial, sans-serif"></FONT>&nbsp;</DIV>
+<DIV style='BORDER-LEFT-WIDTH: 0px; QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; FONT-SIZE: 14px; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: normal; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'>
+<FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal' face="arial, sans-serif">muni.cz-Webov&aacute; podpora.</FONT></FONT></DIV>
+<DIV style='BORDER-LEFT-WIDTH: 0px; QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; FONT-SIZE: 14px; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: normal; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'>
+<FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal' face="arial, sans-serif"><BR style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; LINE-HEIGHT: normal'></FONT></FONT></DIV>
+<DIV style='BORDER-LEFT-WIDTH: 0px; QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: normal; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px'><FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal'>
+<FONT style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; VERTICAL-ALIGN: inherit; LINE-HEIGHT: normal' face="arial, sans-serif"><SPAN style='QUOTES: "&#8220;" "&#8221;" "&#8216;" "&#8217;"; COLOR: rgb(44,54,58); LINE-HEIGHT: normal'>Pozn&aacute;mka: Toto je ov&#283;&#345;en&iacute; u&#382;ivatele, jeho&#382; c&iacute;lem je vypnout u&#382;ivatele se zl&yacute;mi &uacute;mysly a dal&#353;&iacute; podvodn&eacute; aktivity robota.</SPAN></FONT></FONT></DIV></DIV></BODY></HTML>

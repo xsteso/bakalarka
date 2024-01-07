@@ -1,0 +1,1555 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Phishing Game API",
+    "version": "v1"
+  },
+  "host": "localhost:8000",
+  "schemes": [
+    "http"
+  ],
+  "basePath": "/api",
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "securityDefinitions": {
+    "Basic": {
+      "type": "basic"
+    }
+  },
+  "security": [
+    {
+      "Basic": []
+    }
+  ],
+  "paths": {
+    "/auth/login/": {
+      "post": {
+        "operationId": "auth_login_create",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Login"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Login"
+            }
+          }
+        },
+        "tags": [
+          "auth"
+        ]
+      },
+      "parameters": []
+    },
+    "/egruns/": {
+      "get": {
+        "operationId": "egruns_list",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/EmailGameRun"
+              }
+            }
+          }
+        },
+        "tags": [
+          "egruns"
+        ]
+      },
+      "parameters": []
+    },
+    "/egruns/{id}/": {
+      "get": {
+        "operationId": "egruns_read",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/EmailGameRun"
+            }
+          }
+        },
+        "tags": [
+          "egruns"
+        ]
+      },
+      "delete": {
+        "operationId": "egruns_delete",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "egruns"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "id",
+          "in": "path",
+          "description": "A unique integer value identifying this email game runs.",
+          "required": true,
+          "type": "integer"
+        }
+      ]
+    },
+    "/email-enabled/{email_id}/": {
+      "put": {
+        "operationId": "email-enabled_update",
+        "summary": "Function updated enabled field of email.",
+        "description": ":param request: http request containing data\n:returns: HTTP_400 if email cant be updated, otherwise HTTP_200",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "email-enabled"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "email_id",
+          "in": "path",
+          "required": true,
+          "type": "string"
+        }
+      ]
+    },
+    "/emails/": {
+      "get": {
+        "operationId": "emails_list",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Email"
+              }
+            }
+          }
+        },
+        "tags": [
+          "emails"
+        ]
+      },
+      "post": {
+        "operationId": "emails_create",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Email"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Email"
+            }
+          }
+        },
+        "tags": [
+          "emails"
+        ]
+      },
+      "parameters": []
+    },
+    "/emails/import/": {
+      "post": {
+        "operationId": "emails_import_create",
+        "summary": "Function parses given text into email and email parts.",
+        "description": ":param request: http request containing data\n:returns: HTTP_400 if text couldn't be parsed, otherwise HTTP_201",
+        "parameters": [],
+        "responses": {
+          "201": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "emails"
+        ]
+      },
+      "parameters": []
+    },
+    "/emails/{id}/": {
+      "get": {
+        "operationId": "emails_read",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Email"
+            }
+          }
+        },
+        "tags": [
+          "emails"
+        ]
+      },
+      "put": {
+        "operationId": "emails_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Email"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Email"
+            }
+          }
+        },
+        "tags": [
+          "emails"
+        ]
+      },
+      "patch": {
+        "operationId": "emails_partial_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Email"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Email"
+            }
+          }
+        },
+        "tags": [
+          "emails"
+        ]
+      },
+      "delete": {
+        "operationId": "emails_delete",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "emails"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "id",
+          "in": "path",
+          "description": "A unique integer value identifying this emails.",
+          "required": true,
+          "type": "integer"
+        }
+      ]
+    },
+    "/emails_with_statistics/": {
+      "get": {
+        "operationId": "emails_with_statistics_list",
+        "summary": "Calculates statistics for every email:\n * email occurrence\n * average_duration\n * average_correctness",
+        "description": ":param request: http request\n:returns: array of emails and theirs statistics",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "emails_with_statistics"
+        ]
+      },
+      "parameters": []
+    },
+    "/emails_with_statistics/{email_id}/": {
+      "get": {
+        "operationId": "emails_with_statistics_read",
+        "summary": "Function returns email statistics:",
+        "description": "* occurrence number in gameruns\n* average answer duration\n* average answer correctness\n\n:param request: http request\n:param email_id: id of email\n:returns: statistics for given email",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "emails_with_statistics"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "email_id",
+          "in": "path",
+          "required": true,
+          "type": "string"
+        }
+      ]
+    },
+    "/gamerun/init/": {
+      "post": {
+        "operationId": "gamerun_init_create",
+        "summary": "Creates gamerun object with given username and calls\nset_random_emails to assign emails to gamerun",
+        "description": ":param request: http request\n:returns: HTTP_201 if successful",
+        "parameters": [],
+        "responses": {
+          "201": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gamerun"
+        ]
+      },
+      "parameters": []
+    },
+    "/gamerun/nextEmail/": {
+      "get": {
+        "operationId": "gamerun_nextEmail_list",
+        "summary": "Gets gamerun from session and returns first email, which\nhasn't been answered by the player yet.",
+        "description": ":param request: http request\n:returns: unanswered email from current gamerun",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gamerun"
+        ]
+      },
+      "parameters": []
+    },
+    "/gamerun/setAnswer/": {
+      "post": {
+        "operationId": "gamerun_setAnswer_create",
+        "summary": "Function sets player_answer and answer duration\nof current email in player's gamerun saved in session.",
+        "description": ":param request: http request\n:returns: HTTP_201 if successful",
+        "parameters": [],
+        "responses": {
+          "201": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gamerun"
+        ]
+      },
+      "parameters": []
+    },
+    "/gamerun/summary/{gamerun_id}/": {
+      "get": {
+        "operationId": "gamerun_summary_read",
+        "description": "Calculates summary for every email in current gamerun:\n * average answer correctness\n * average answer durations\n * player's answer duration\n\n:param request: http request\n:returns: array of emails and theirs statistics",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gamerun"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "gamerun_id",
+          "in": "path",
+          "required": true,
+          "type": "string"
+        }
+      ]
+    },
+    "/gameruns/": {
+      "get": {
+        "operationId": "gameruns_list",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/GameRun"
+              }
+            }
+          }
+        },
+        "tags": [
+          "gameruns"
+        ]
+      },
+      "parameters": []
+    },
+    "/gameruns/{gamerun_id}/emails/": {
+      "get": {
+        "operationId": "gameruns_emails_list",
+        "summary": "Sends response with emails of gamerun with given gamerun_id",
+        "description": ":param request: http request\n:param gamerun_id: ID of gamerun\n:returns: emails if gamerun exists, otherwise HTTP 404",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gameruns"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "gamerun_id",
+          "in": "path",
+          "required": true,
+          "type": "string"
+        }
+      ]
+    },
+    "/gameruns/{id}/": {
+      "get": {
+        "operationId": "gameruns_read",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/GameRun"
+            }
+          }
+        },
+        "tags": [
+          "gameruns"
+        ]
+      },
+      "delete": {
+        "operationId": "gameruns_delete",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gameruns"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "id",
+          "in": "path",
+          "description": "A unique integer value identifying this game runs.",
+          "required": true,
+          "type": "integer"
+        }
+      ]
+    },
+    "/gameruns_with_statistics/": {
+      "get": {
+        "operationId": "gameruns_with_statistics_list",
+        "description": "Calculates summary for every email in current gamerun:\n * average answer correctness\n * average answer durations\n * player's answer duration\n\n:param request: http request\n:returns: array of emails and theirs statistics",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gameruns_with_statistics"
+        ]
+      },
+      "parameters": []
+    },
+    "/gameruns_with_statistics/{gamerun_id}/": {
+      "get": {
+        "operationId": "gameruns_with_statistics_read",
+        "description": "Calculates summary for every email in current gamerun:\n * average answer correctness\n * average answer durations\n * player's answer duration\n\n:param request: http request\n:returns: array of emails and theirs statistics",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gameruns_with_statistics"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "gamerun_id",
+          "in": "path",
+          "required": true,
+          "type": "string"
+        }
+      ]
+    },
+    "/gameruns_with_statistics_by_email/{email_id}/": {
+      "get": {
+        "operationId": "gameruns_with_statistics_by_email_read",
+        "description": "\"\nCalculates summary for every email in current gamerun:\n * average answer correctness\n * average answer durations\n * player's answer duration\n\n:param request: http request\n:returns: array of emails and theirs statistics",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "gameruns_with_statistics_by_email"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "email_id",
+          "in": "path",
+          "required": true,
+          "type": "string"
+        }
+      ]
+    },
+    "/settings/": {
+      "get": {
+        "operationId": "settings_list",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Setting"
+              }
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "post": {
+        "operationId": "settings_create",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Setting"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Setting"
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "parameters": []
+    },
+    "/settings/translations/": {
+      "get": {
+        "operationId": "settings_translations_list",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/SettingsTranslation"
+              }
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "post": {
+        "operationId": "settings_translations_create",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/SettingsTranslation"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/SettingsTranslation"
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "parameters": []
+    },
+    "/settings/translations/{id}/": {
+      "get": {
+        "operationId": "settings_translations_read",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/SettingsTranslation"
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "put": {
+        "operationId": "settings_translations_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/SettingsTranslation"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/SettingsTranslation"
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "patch": {
+        "operationId": "settings_translations_partial_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/SettingsTranslation"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/SettingsTranslation"
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "delete": {
+        "operationId": "settings_translations_delete",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "id",
+          "in": "path",
+          "description": "A unique integer value identifying this settings translations.",
+          "required": true,
+          "type": "integer"
+        }
+      ]
+    },
+    "/settings/{id}/": {
+      "get": {
+        "operationId": "settings_read",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Setting"
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "put": {
+        "operationId": "settings_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Setting"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Setting"
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "patch": {
+        "operationId": "settings_partial_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Setting"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Setting"
+            }
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "delete": {
+        "operationId": "settings_delete",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "settings"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "id",
+          "in": "path",
+          "description": "A unique integer value identifying this settings.",
+          "required": true,
+          "type": "integer"
+        }
+      ]
+    },
+    "/signs/": {
+      "get": {
+        "operationId": "signs_list",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Sign"
+              }
+            }
+          }
+        },
+        "tags": [
+          "signs"
+        ]
+      },
+      "post": {
+        "operationId": "signs_create",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Sign"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Sign"
+            }
+          }
+        },
+        "tags": [
+          "signs"
+        ]
+      },
+      "parameters": []
+    },
+    "/signs/{id}/": {
+      "get": {
+        "operationId": "signs_read",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Sign"
+            }
+          }
+        },
+        "tags": [
+          "signs"
+        ]
+      },
+      "put": {
+        "operationId": "signs_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Sign"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Sign"
+            }
+          }
+        },
+        "tags": [
+          "signs"
+        ]
+      },
+      "patch": {
+        "operationId": "signs_partial_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Sign"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Sign"
+            }
+          }
+        },
+        "tags": [
+          "signs"
+        ]
+      },
+      "delete": {
+        "operationId": "signs_delete",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "signs"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "id",
+          "in": "path",
+          "description": "A unique integer value identifying this signs.",
+          "required": true,
+          "type": "integer"
+        }
+      ]
+    },
+    "/types/": {
+      "get": {
+        "operationId": "types_list",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Type"
+              }
+            }
+          }
+        },
+        "tags": [
+          "types"
+        ]
+      },
+      "post": {
+        "operationId": "types_create",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Type"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Type"
+            }
+          }
+        },
+        "tags": [
+          "types"
+        ]
+      },
+      "parameters": []
+    },
+    "/types/{id}/": {
+      "get": {
+        "operationId": "types_read",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Type"
+            }
+          }
+        },
+        "tags": [
+          "types"
+        ]
+      },
+      "put": {
+        "operationId": "types_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Type"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Type"
+            }
+          }
+        },
+        "tags": [
+          "types"
+        ]
+      },
+      "patch": {
+        "operationId": "types_partial_update",
+        "description": "",
+        "parameters": [
+          {
+            "name": "data",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Type"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Type"
+            }
+          }
+        },
+        "tags": [
+          "types"
+        ]
+      },
+      "delete": {
+        "operationId": "types_delete",
+        "description": "",
+        "parameters": [],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        },
+        "tags": [
+          "types"
+        ]
+      },
+      "parameters": [
+        {
+          "name": "id",
+          "in": "path",
+          "description": "A unique integer value identifying this types.",
+          "required": true,
+          "type": "integer"
+        }
+      ]
+    }
+  },
+  "definitions": {
+    "Login": {
+      "required": [
+        "username",
+        "password"
+      ],
+      "type": "object",
+      "properties": {
+        "username": {
+          "title": "Username",
+          "type": "string",
+          "minLength": 1
+        },
+        "password": {
+          "title": "Password",
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "EmailGameRun": {
+      "required": [
+        "email",
+        "game_run"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "title": "ID",
+          "type": "integer",
+          "readOnly": true
+        },
+        "email": {
+          "title": "Email",
+          "type": "integer"
+        },
+        "game_run": {
+          "title": "Game run",
+          "type": "integer"
+        },
+        "order": {
+          "title": "Order",
+          "type": "integer",
+          "maximum": 2147483647,
+          "minimum": -2147483648
+        },
+        "player_answer": {
+          "title": "Player answer",
+          "type": "boolean",
+          "x-nullable": true
+        },
+        "duration": {
+          "title": "Duration",
+          "type": "string"
+        }
+      }
+    },
+    "Email": {
+      "required": [
+        "subject",
+        "sender",
+        "date",
+        "body"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "title": "ID",
+          "type": "integer",
+          "readOnly": true
+        },
+        "enabled": {
+          "title": "Enabled",
+          "type": "boolean"
+        },
+        "subject": {
+          "title": "Subject",
+          "type": "string",
+          "maxLength": 300,
+          "minLength": 1
+        },
+        "sender": {
+          "title": "Sender",
+          "type": "string",
+          "maxLength": 300,
+          "minLength": 1
+        },
+        "reply_to": {
+          "title": "Reply to",
+          "type": "string",
+          "maxLength": 300,
+          "x-nullable": true
+        },
+        "recipient": {
+          "title": "Recipient",
+          "type": "string",
+          "maxLength": 300,
+          "x-nullable": true
+        },
+        "date": {
+          "title": "Date",
+          "type": "string",
+          "format": "date-time"
+        },
+        "cc": {
+          "title": "Cc",
+          "type": "string",
+          "maxLength": 300,
+          "x-nullable": true
+        },
+        "body": {
+          "title": "Body",
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "required": [
+            "type"
+          ],
+          "type": "object",
+          "properties": {
+            "id": {
+              "title": "ID",
+              "type": "integer",
+              "readOnly": true
+            },
+            "type": {
+              "title": "Type",
+              "type": "string",
+              "maxLength": 300,
+              "minLength": 1
+            }
+          },
+          "readOnly": true
+        },
+        "sign": {
+          "type": "array",
+          "items": {
+            "required": [
+              "text"
+            ],
+            "type": "object",
+            "properties": {
+              "id": {
+                "title": "ID",
+                "type": "integer",
+                "readOnly": true
+              },
+              "text": {
+                "title": "Text",
+                "type": "string",
+                "maxLength": 300,
+                "minLength": 1
+              }
+            }
+          },
+          "readOnly": true
+        },
+        "gameruns": {
+          "type": "array",
+          "items": {
+            "required": [
+              "player_name"
+            ],
+            "type": "object",
+            "properties": {
+              "id": {
+                "title": "ID",
+                "type": "integer",
+                "readOnly": true
+              },
+              "player_name": {
+                "title": "Player name",
+                "type": "string",
+                "maxLength": 100,
+                "minLength": 1
+              },
+              "player_age": {
+                "title": "Player age",
+                "type": "integer",
+                "maximum": 2147483647,
+                "minimum": -2147483648
+              },
+              "player_gender": {
+                "title": "Player gender",
+                "type": "string",
+                "maxLength": 100,
+                "minLength": 1,
+                "x-nullable": true
+              },
+              "start_time": {
+                "title": "Start time",
+                "type": "string",
+                "format": "date-time",
+                "readOnly": true
+              },
+              "end_time": {
+                "title": "End time",
+                "type": "string",
+                "format": "date-time",
+                "x-nullable": true
+              },
+              "emails": {
+                "type": "array",
+                "items": {
+                  "type": "integer"
+                },
+                "readOnly": true,
+                "uniqueItems": true
+              }
+            }
+          },
+          "readOnly": true
+        }
+      }
+    },
+    "GameRun": {
+      "required": [
+        "player_name",
+        "start_time",
+        "end_time"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "title": "ID",
+          "type": "integer",
+          "readOnly": true
+        },
+        "player_name": {
+          "title": "Player name",
+          "type": "string",
+          "maxLength": 100,
+          "minLength": 1
+        },
+        "player_age": {
+          "title": "Player age",
+          "type": "integer",
+          "maximum": 2147483647,
+          "minimum": -2147483648
+        },
+        "player_gender": {
+          "title": "Player gender",
+          "type": "string",
+          "maxLength": 100,
+          "minLength": 1,
+          "x-nullable": true
+        },
+        "emails": {
+          "type": "array",
+          "items": {
+            "required": [
+              "subject",
+              "sender",
+              "date",
+              "body",
+              "type"
+            ],
+            "type": "object",
+            "properties": {
+              "id": {
+                "title": "ID",
+                "type": "integer",
+                "readOnly": true
+              },
+              "enabled": {
+                "title": "Enabled",
+                "type": "boolean"
+              },
+              "subject": {
+                "title": "Subject",
+                "type": "string",
+                "maxLength": 300,
+                "minLength": 1
+              },
+              "sender": {
+                "title": "Sender",
+                "type": "string",
+                "maxLength": 300,
+                "minLength": 1
+              },
+              "reply_to": {
+                "title": "Reply to",
+                "type": "string",
+                "maxLength": 300,
+                "x-nullable": true
+              },
+              "recipient": {
+                "title": "Recipient",
+                "type": "string",
+                "maxLength": 300,
+                "x-nullable": true
+              },
+              "date": {
+                "title": "Date",
+                "type": "string",
+                "format": "date-time"
+              },
+              "cc": {
+                "title": "Cc",
+                "type": "string",
+                "maxLength": 300,
+                "x-nullable": true
+              },
+              "body": {
+                "title": "Body",
+                "type": "string",
+                "minLength": 1
+              },
+              "type": {
+                "title": "Type",
+                "type": "integer"
+              },
+              "sign": {
+                "type": "array",
+                "items": {
+                  "type": "integer"
+                },
+                "uniqueItems": true
+              },
+              "gameruns": {
+                "type": "array",
+                "items": {
+                  "type": "integer"
+                },
+                "readOnly": true,
+                "uniqueItems": true
+              }
+            }
+          },
+          "readOnly": true
+        },
+        "start_time": {
+          "title": "Start time",
+          "type": "string",
+          "format": "date-time"
+        },
+        "end_time": {
+          "title": "End time",
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "Setting": {
+      "required": [
+        "key",
+        "value",
+        "type"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "title": "ID",
+          "type": "integer",
+          "readOnly": true
+        },
+        "key": {
+          "title": "Key",
+          "type": "string",
+          "maxLength": 100,
+          "minLength": 1
+        },
+        "value": {
+          "title": "Value",
+          "type": "string",
+          "maxLength": 255,
+          "minLength": 1
+        },
+        "type": {
+          "title": "Type",
+          "type": "string",
+          "maxLength": 255,
+          "minLength": 1
+        },
+        "translated_text": {
+          "title": "Translated text",
+          "type": "string",
+          "readOnly": true,
+          "minLength": 1
+        }
+      }
+    },
+    "SettingsTranslation": {
+      "required": [
+        "setting",
+        "text_translation"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "title": "ID",
+          "type": "integer",
+          "readOnly": true
+        },
+        "setting": {
+          "title": "Setting",
+          "type": "integer"
+        },
+        "text_translation": {
+          "title": "Text translation",
+          "type": "string",
+          "maxLength": 200,
+          "minLength": 1
+        }
+      }
+    },
+    "Sign": {
+      "required": [
+        "text"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "title": "ID",
+          "type": "integer",
+          "readOnly": true
+        },
+        "text": {
+          "title": "Text",
+          "type": "string",
+          "maxLength": 300,
+          "minLength": 1
+        }
+      }
+    },
+    "Type": {
+      "required": [
+        "type"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "title": "ID",
+          "type": "integer",
+          "readOnly": true
+        },
+        "type": {
+          "title": "Type",
+          "type": "string",
+          "maxLength": 300,
+          "minLength": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+content-type: text/html; charset="utf-8"
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+MIME-Version: 1.0
+Message-ID: <1d9ba66abb.ac996e@westzonesolution.in>
+Content-Transfer-Encoding: base64
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 21IL2IEZ013752 for <rt@rt.csirt.muni.cz>; Fri, 18 Feb 2022 22:02:19 +0100
+Received: from westzonesolution.in (westzonesolution.in [162.244.93.140]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 21IL2C3O034815 for <csirt@muni.cz>; Fri, 18 Feb 2022 22:02:14 +0100
+X-Spam-Flag: YES
+Archival-Doled-Proust: corrigendum
+From duchnowski@westzonesolution.in Fri Feb 18 22:02:19 2022
+X-Filter-Version: 1.15 (minas)
+From: "Federal Express" <duchnowski@westzonesolution.in>
+X-Spam-Level: ************
+Accidently-Fitter-Blares: domineering
+X-Greylist: Sender passed SPF test, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Fri, 18 Feb 2022 22:02:14 +0100 (CET)
+X-Virus-Status: Clean
+X-Muni-Envelope-From: duchnowski@westzonesolution.in
+To: "csirt@muni.cz" <csirt@muni.cz>
+X-Spam-Status: Yes, score=12.9 required=5.0 tests=DATE_IN_PAST_06_12, HTML_MESSAGE,MIME_HTML_ONLY,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_PSBL, RCVD_IN_SORBS_SPAM,SPF_HELO_PASS,SPF_PASS,T_RP_MATCHES_RCVD autolearn=disabled version=3.3.2
+X-Muni-Envelope-To: csirt@muni.cz
+X-RT-Incoming-Encryption: Not encrypted
+Imprints-Months-Kill: 8FFDC6B573FA7
+X-Muni-O365-Test: duchnowski@westzonesolution.in,csirt@muni.cz
+Retrains-Boeing-Dogging: 7a872123b752
+X-Muni-Spam-Testip: 162.244.93.140
+Subject: FedEx Ticket No.61343
+Date: Fri, 18 Feb 2022 13:02:14 +0000
+X-RT-Original-Encoding: utf-8
+X-RT-Interface: Email
+Content-Length: 2181
+
+<html> 
+ <body style="color:#555555;font:13px Arial;">    <div style="max-width:690px;">  <table cellspacing="0" cellpadding="0" style="color:#555555;font:13px Arial;border:solid 1px #dfdfdf;width:100%;">    
+  
+
+ 
+ 
+ <tr>
+  <td style="padding:20px 20px 0px 20px;" valign="top"> 
+  
+  
+  
+   
+  
+   <span style="color:#4d148c;font-size:22px;font-weight:bold;">Fed</span><span style="color:#ff6600;font-size:22px;font-weight:bold;">Ex</span>     <span style="color:#333333;font-size:22px;">#61343</span><br/>     <br/>   
+    
+ 
+    <span style="color:#222222;font-weight:bold;">We have sent you a message.</span><br/>  
+    <br/>    
+  
+ 
+    
+    We have sent you a message with the required information.<br/><br/>     
+   
+  
+  
+  </td>   <td style="padding:20px 20px 0px 20px;" align="right" valign="top"></td>  </tr>   <tr>   <td colspan="2" style="padding:0px 20px 10px 20px;"> 
+   
+    Have trouble reading this email?<br/>
+    
+
+  
+   <a style="color:#4d148c;text-decoration:none;font-weight:bold;" href="http://demo.expertphp.in/earthlingc.php?utm_source=f220ec&utm_content=97de20">Click here</a> to open this email in your browser. 
+
+   
+   
+ 
+ 
+ 
+  </td>  </tr>   <tr> 
+ 
+   
+ 
+  <td colspan="2" style="padding:10px 20px 10px 20px;">    
+  
+   
+    <a href="http://demo.expertphp.in/earthlingc.php?utm_source=f220ec&utm_content=97de20" style="font-family:Arial;display:inline-block;padding:7px 15px;background-color:#4d2c86;color:#ffffff;font-size:13px;font-weight:bold;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;border:solid 1px #3d1c76;white-space:nowrap;text-decoration:none;">View messages</a>  
+   
+    
+  
+  
+  </td>    
+   
+  
+ 
+
+ </tr>    
+
+ 
+ <tr>  
+    
+ 
+    
+  <td colspan="2" style="font-size:11px;padding:10px 20px 10px 20px;">     Please click <a href="http://demo.expertphp.in/earthlingc.php?utm_source=f220ec&utm_content=97de20" style="text-decoration:none;color:#4d148c;">unsubscribe</a> if you don't want to receive these messages from Federal Express in the future.    </td>  
+ 
+    
+
+ </tr>    
+    
+</table>
+
+   
+  
+   </div>
+   
+ 
+  </body> </html> 

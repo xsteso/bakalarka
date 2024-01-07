@@ -1,0 +1,50 @@
+X-Msmail-Priority: Normal
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 20ME5Cus030462 for <rt@rt.csirt.muni.cz>; Sat, 22 Jan 2022 15:05:13 +0100
+Received: from mail.lvye.org ([111.207.165.5]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 20ME4vPP042403 (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT) for <csirt@muni.cz>; Sat, 22 Jan 2022 15:05:04 +0100
+Received: from User (103.133.111.28) by lvyemail.lvye.org (192.168.0.3) with Microsoft SMTP Server id 14.0.722.0; Sat, 22 Jan 2022 21:42:09 +0800
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+X-Spam-Flag: YES
+Message-ID: <3c0048c9-1d52-4ff4-b090-e19257bd1038@lvyemail.lvye.org>
+X-Muni-Envelope-To: csirt@muni.cz
+Date: Sat, 22 Jan 2022 06:04:50 -0800
+Reply-To: fspero82@gmail.com
+MIME-Version: 1.0
+From: "sp?ro" <ada@lvye.org>
+X-Virus-Status: Clean
+X-RT-Incoming-Encryption: Not encrypted
+X-Spam-Status: Yes, score=40.0 required=5.0 tests=ADVANCE_FEE_3_NEW, ADVANCE_FEE_4_NEW,DEAR_FRIEND,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML, FORGED_OUTLOOK_TAGS,FORM_FRAUD_3,FSL_CTYPE_WIN1251,FSL_UA,FSL_XM_419, HTML_MESSAGE,MIME_HTML_ONLY,NSL_RCVD_FROM_USER,RCVD_IN_BL_SPAMCOP_NET, RCVD_IN_BRBL_LASTEXT,RCVD_IN_CSS,RCVD_IN_PSBL,RCVD_IN_RP_RNBL, RCVD_IN_SORBS_SPAM,RDNS_NONE,TO_NO_BRKTS_MSFT,TO_NO_BRKTS_NORDNS, TO_NO_BRKTS_NORDNS_HTML,T_FILL_THIS_FORM_SHORT autolearn=disabled version=3.3.2
+X-Priority: 3
+X-Muni-O365-Test: ada@lvye.org,csirt@muni.cz
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+Subject: INFO
+X-Filter-Version: 1.15 (minas)
+content-type: text/html; charset="utf-8"
+X-Muni-Envelope-From: ada@lvye.org
+Content-Transfer-Encoding: 7bit
+X-Muni-Spam-Testip: 111.207.165.5
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+X-Greylist: IP, sender and recipient auto-whitelisted, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Sat, 22 Jan 2022 15:05:06 +0100 (CET)
+To: 
+X-Spam-Level: ***************************************
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+From ada@lvye.org Sat Jan 22 15:05:13 2022
+X-RT-Original-Encoding: cp1251
+X-RT-Interface: Email
+Content-Length: 1206
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+<FONT size=3><B>Dear friend,</B></FONT></DIV>
+<DIV>
+<FONT size=3><B>It might be a surprise to you reading from me again as I had written an earlier email to you but without a response. Presently, I'm in the hospital where I am undergoing treatment for Esophageal Cancer. I am Mrs. Felicia sp?ro, widow to late Maurientes sp?ro, former deputy defense attach? to Benin consulate in the Czech Republic. My husband was killed by those who were envious of his position in the same office.</B></FONT></DIV>
+<DIV>
+<FONT size=3><B>But before his death, he vowed to use his wealth for the orphanages and elderly persons who are less privileged. I have decided to donate this money to an individual, who will utilize it to fulfill the last request of my late husband, which is why I contacted you. Reply with your full names, phone number, address, and occupation so that I will give you more details.</B></FONT></DIV>
+<DIV>
+<FONT size=3><B>Yours Sincerely,</B></FONT></DIV>
+<DIV>
+<FONT size=3><B>Mrs. Felicia sp?ro</B></FONT></DIV>
+</FONT>
+</BODY></HTML>

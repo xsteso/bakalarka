@@ -1,0 +1,214 @@
+{
+  "APP_TITLE": "Phishing game",
+  "BUTTON": {
+    "CLOSE": "Zavřít",
+    "CANCEL": "Zrušit",
+    "SAVE": "Uložit",
+    "SETTINGS": "Nastavení",
+    "CONTINUE": "Pokračovat",
+    "UNDRESTAND": "Rozumím",
+    "ADD": "Přidat",
+    "ADD_FILES": "Přidat soubory",
+    "BACK": "Zpět",
+    "NEXT": "Další",
+    "PLAY_AGAIN": "Hrát znovu",
+    "QUESTIONNAIRE": "Pokračovat na dotazník",
+    "DELETE": "Smazat",
+    "EXPORT": "Exportovat",
+    "ENABLE": "Aktivovat",
+    "DISABLE": "Deaktivovat",
+    "IMPORT": "Importovat",
+    "HINTS": "Nápověda",
+    "DETAIL": "Zobrazit detail"
+  },
+  "LANGUAGE": {
+    "SELECT": "Vyberte jazyk"
+  },
+  "TABLE": {
+    "SELECTED_1": "vybraný",
+    "SELECTED_2-4": "vybrané",
+    "SELECTED_N": "vybraných",
+    "ROWS_PER_PAGE": "Počet záznamů na stránku",
+    "ALL": "Všechny"
+  },
+  "EMAILS": {
+    "SETTINGS": "Nastavení",
+    "ID": "ID",
+    "ENABLED": "Aktivní",
+    "DISABLED": "Neaktivní",
+    "TITLE": "E-maily",
+    "BODY": "Obsah",
+    "DATA": "E-mailová data",
+    "STATISTICS": "Statistiky",
+    "EDITOR": "Editor",
+    "ADD_SIGN_HINT": "Přidat nápovědu",
+    "REMOVE_SIGN_HINT": "Odstranit nápovědu",
+    "PREVIEW": "Náhled",
+    "HINT": {
+      "TITLE": "Věnujte pozornost odkazům a tlačítkům v e-mailu",
+      "DESC": "Odkazy a tlačítka obsažené v e-mailech mohou vést na škodlivé webové stránky, jejichž prostřednictvím mohou být odcizeny vaše osobní údaje. Také mohou stáhnout škodlivé soubory, které mohou poškodit vaše zařízení. Neklikejte na ně, pokud si nejste opravdu jisti, že jsou legitimní."
+    },
+    "SAVE_SUCCESS": "E-mail byl úspěšně uložen!",
+    "SUBJECT": "Předmět",
+    "SENDER": "Odesílatel",
+    "RECIPIENT": "Přijímatel",
+    "SENT_AT": "Čas odeslání",
+    "CC": "Kopie",
+    "REPLY_TO": "Odpovědět",
+    "OCCURRENCE": "Výskyt",
+    "AVG_DURATION": "Prům. trvání",
+    "AVG_CORRECTNESS": "Prům. správnost",
+    "ENABLED_TRUE": "Email je v současné době aktivní. Bude použit při generování e-mailových sad.",
+    "ENABLED_FALSE": "Email je v současné době neaktivní. Nebude použit, dokud nebude znovu aktivován."
+  },
+  "SIGNS": {
+    "TITLE": "Znaky",
+    "ONE": "Znak",
+    "NEW": "Nový znak",
+    "ID": "ID",
+    "HINT": {
+      "TITLE": "Nápovědy ke znakům phishingu",
+      "DESC": "Věnujte pozornost následujícím znakům v e-mailu"
+    },
+    "OPTIONS": {
+      "SUSPICIOUS_SENDER": "Podezřelý odesílatel",
+      "SENSE_OF_URGENCY": "Časový nátlak",
+      "SUSPICIOUS_LINK": "Podezřelý odkaz",
+      "PERSONAL_INFO_REQUEST": "Žádost o osobní údaje",
+      "SUSPICIOUS_OFFER": "Podezřelá nabídka",
+      "GRAMMAR_MISTAKES": "Jazykové a stylistické chyby"
+    }
+  },
+  "TYPES": {
+    "TITLE": "Typy",
+    "ONE": "Typ",
+    "ID": "ID",
+    "NEW": "Nový typ",
+    "OPTIONS": {
+      "LEGITIMATE": "Legitimní",
+      "SPEAR_PHISHING": "Spear phishing",
+      "PHISHING": "Phishing",
+      "WHALING": "Whaling"
+    }
+  },
+  "LABELS": {
+    "SEARCH": "Hledat",
+    "NO_ITEMS": "Neexistují žádné položky k zobrazení.",
+    "LOADING": "Načítání...",
+    "ERROR": "Při načítání dat se vyskytla chyba. Zkontrolujte svou žádost nebo zkuste opakovat později."
+  },
+  "EDITOR": {
+    "TUTORIAL": {
+      "TITLE": "Jak spravovat zvýraznění znaků",
+      "STEP_1": "Začněte výběrem správného typu znaku.",
+      "STEP_2": "Vyberte část e-mailu, kterou chcete zvýraznit v editoru těla.",
+      "STEP_3": "Stisknutím tlačítka 'PŘIDAT NÁPOVĚDU' přidáte vybranú nápovědu.",
+      "STEP_4": "Najetím kurzoru na zvýrazněný text zobrazíte typ znaku.",
+      "STEP_5": "Pokud chcete odstranit zvýraznění, vyberte požadovanou část e-mailu a stiskněte tlačítko 'ODSTRANIT NÁPOVĚDU'."
+    }
+  },
+  "INTRO": {
+    "TITLE": "Vítejte ve hře Phishing game!",
+    "PLAY": "Hrát",
+    "HOW_TO": "Návod",
+    "TUTORIAL": {
+      "STEP_1": "Na začátku musíte zadat své <span style=\"color: blue\">uživatelské jméno</span>, <span style=\"color: red\">věk</span> a <span style=\"color: green\">pohlaví</span>. Potom stisknutím tlačítka START spustíte hru. (Tyto informace shromažďujeme pouze pro účely interních statistik. Nesdílíme je s žádnou třetí stranou.)",
+      "STEP_2": "<span style=\"color: blue\">Bodky</span> zobrazené v horní části obrazovky, indikují počet e-mailů ve hře, také i aktuální e-mail, se kterým pracujete. V hlavičce následně můžete vidět předmět e-mailu, <span style=\"color: red\">e-mailovou adresu odesílatele</span> a <span style=\"color: green\">datum doručení</span>. Pod čarou se nachází <span style=\"color: orange\">tělo e-mailu</span>.",
+      "STEP_3": "Cílem hry je rozhodnout se a označit, zda je e-mail který vidíte legitimní nebo phishingový. Ve spodní části se nacházejí tři tlačítka. <span style=\"color: blue\">První s názvem NÁPOVĚDA</span> vám může poskytnout rady o znacích v emailech, které vám mohou při rozhodování pomoci. <span style=\"color: red\">Červeným tlačítkem označíte e-mail jako phishingový</span> a <span style=\"color: green\">zeleným jako legitimní</span>.",
+      "STEP_4": "Po označení všech e-mailů ve hře se vám zobrazí stránka s výsledkem. Zde můžete vidět, <span style=\"color: red\">kolik e-mailů jste označili správně</span>, <span style=\"color: green\">jak dlouho vám trvalo dokončení hry</span> a nakonec <span style=\"color: blue\">uživatelské jméno</span> spolu s <span style=\"color: orange\">datem a časem vaší hry</span>. ",
+      "STEP_5": "Pod souhrnem výsledku hry můžete vidět individuální odpovědi na každý e-mail. V tomto detailu můžete vidět <span style=\"color: red\">svou odpověď</span>, <span style=\"color: blue\">jak dlouho vám trvalo rozhodnutí</span> a také <span style=\"color: green\">průměrné hodnoty</span> pro konkrétní e-mail. V dolní části je zobrazena <span style=\"color: orange\">správná odpověď</span> pro daný e-mail.",
+      "STEP_6": "Pokud si nejste jisti, proč jste odpověděli nesprávně, nebo si jen chcete znovu prohlédnout detail e-mailu, stiskněte tlačítko ZOBRAZIT DETAIL. Otevře se vám detail těla e-mailu se <span style=\"color: blue\">zvýrazněnými částmi</span> označujícími <span style=\"color: red\">phishingové znaky</span>, které e- mail má. Pro jejich zobrazení, přejeďte přes ně myší nebo na ni klikněte na mobilu."
+    }
+  },
+  "GAMERUNS": {
+    "TITLE": "Herní běhy",
+    "ANSWER": "Odpověď",
+    "INFO": "Info",
+    "DURATION": "Trvání",
+    "AVG_DURATION": "Průměr. doba trvání",
+    "AVG_CORRECTNESS": "Průměr. správnost",
+    "YOUR_ANSWER": "Vaše odpověď",
+    "EMAIL_RESULT": "Toto je {{email_type}} e-mail",
+    "ID": "ID",
+    "PLAYER_NAME": "Jméno hráče",
+    "PLAYER_AGE": "Věk hráče",
+    "PLAYER_GENDER": "Pohlaví hráče",
+    "DATE": "Datum",
+    "START_TIME": "Začátek",
+    "END_TIME": "Konec",
+    "CORRECTLY_ANSWERED": "Správně zodpovězeno",
+    "NUMBER_OF_EMAILS": "Počet e-mailů v průběhu hry"
+  },
+  "LOGIN": {
+    "TITLE": "Přihlášení",
+    "SUBMIT": "Přihlásit",
+    "USERNAME": "Přihlašovací jméno",
+    "PASSWORD": "Heslo"
+  },
+  "PLAY": {
+    "CORRECT": "Správně",
+    "WRONG": "Špatně",
+    "LEGITIMATE_EMAIL": "Toto je legitimní e-mail",
+    "PHISHING_EMAIL": "Toto je phishingový e-mail",
+    "LEGITIMATE": "Legitimní e-mail",
+    "PHISHING": "Phishingový e-mail",
+    "PLAYER": "Informace o hráči",
+    "RESULT": "Hra je dokončena!",
+    "RESULT_CORRECT": "Výsledek",
+    "RESULT_DURATION": "Trvání",
+    "RESULT_DESC": "Děkujeme za Váš čas. Pomozte nám vylepšit tuto aplikaci vyplněním krátkého dotazníku.",
+    "USERNAME": "Přezdívka",
+    "AGE": "Věk",
+    "GENDER": "Pohlaví",
+    "START": "Start"
+  },
+  "GENDER": {
+    "MAN": "Muž",
+    "WOMAN": "Žena",
+    "OTHER": "Jiné"
+  },
+  "DURATION": {
+    "HOURS": "hodin",
+    "MINUTES": "minut",
+    "SECONDS": "sekund"
+  },
+  "MENU": {
+    "GENERAL": "Obecné",
+    "LOGOUT": "Odhlásit se"
+  },
+  "SETTINGS": {
+    "RANGE": "musí být v intervalu",
+    "NUMBER_OF_EMAILS": "Počet e-mailů v průběhu hry",
+    "PHISHING_RATIO": "Poměr phishingových e-mailů v průběhu hry (%)",
+    "EMAIL_DATE_SETTING": "Zobrazit reálný čas přijetí emailu"
+  },
+  "GENERAL": {
+    "SAVE_SUCCESS": "Nastavení úspěšně změněno!"
+  },
+  "VALIDATION": {
+    "SUBJECT_REQUIRED": "Předmět je povinen.",
+    "RECIPIENT_REQUIRED": "Příjemce je povinen.",
+    "SENDER_REQUIRED": "Odesílatel je povinen.",
+    "BODY_REQUIRED": "Text e-mailu je povinen.",
+    "LEGITIMATE_SIGNS": "Legitimní e-mail nemůže mít znaky.",
+    "PHISHING_SIGNS": "Phishingový e-mail musí mít alespoň jeden znak.",
+    "DATE_FORMAT": "Datum a čas je ve špatném formátu",
+    "FORM_ERROR": "Zkontrolujte formulář a opravte chyby.",
+    "USERNAME_BLANK": "Uživatelské jméno nemůže být prázdné.",
+    "AGE_BLANK": "Věk nemůže být prázdný.",
+    "AGE_FORMAT": "Věk musí být ve formátu čísla.",
+    "AGE_INTERVAL": "Věk musí být mezi 10 a 100."
+  },
+  "ERRORS": {
+    "BAD_CREDENTIALS": "Špatné přihlašovací údaje.",
+    "GAMERUN_INIT_ERROR": "Nepodařilo se inicializovat spuštění hry. Zkontrolujte prosím, zda je dostatek legitimních a phishingových e-mailů podle nastavení herního běhu."
+  },
+  "NOTIFICATIONS": {
+    "DELETE_SUCCESS": "Smazání proběhlo úspěšně.",
+    "ENABLE_SUCCESS": "Emaily úspešně aktivovány.",
+    "DISABLE_SUCCESS": "Emaily úspešně deaktivovány."
+  },
+  "DIALOG": {
+    "DELETE": "Opravdu chcete smazat vybrané položky ?"
+  }
+}

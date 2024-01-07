@@ -1,0 +1,200 @@
+X-Spam-Flag: YES
+From: "World Courier" <ethnocentrism@corporeadministradora.com.br>
+X-Muni-Envelope-To: csirt@muni.cz
+From ethnocentrism@corporeadministradora.com.br Sat Feb  5 20:10:25 2022
+X-Virus-Status: Clean
+TWB-I-Srgo: b9af76f2a
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 215JAOAb012394 for <rt@rt.csirt.muni.cz>; Sat, 5 Feb 2022 20:10:25 +0100
+Received: from corporeadministradora.com.br (corporeadministradora.com.br [187.103.137.44]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 215JAFBQ058718 for <csirt@muni.cz>; Sat, 5 Feb 2022 20:10:18 +0100
+X-Filter-Version: 1.15 (minas)
+Rij-Im-Lfastkvh: 14c75112c
+X-Spam-Status: Yes, score=11.8 required=5.0 tests=HTML_MESSAGE,MIME_HTML_ONLY, RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_PSBL,RCVD_IN_SORBS_SPAM,SPF_HELO_PASS,SPF_PASS, T_RP_MATCHES_RCVD autolearn=disabled version=3.3.2
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+RBSSZ-Gxnifzge: d
+X-Muni-Spam-Testip: 187.103.137.44
+content-type: text/html; charset="utf-8"
+X-Greylist: Sender passed SPF test, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Sat, 05 Feb 2022 20:10:19 +0100 (CET)
+To: csirt@muni.cz
+MIME-Version: 1.0
+Message-ID: <9e6a23_b89bf7.ec1aa1776@corporeadministradora.com.br>
+Content-Transfer-Encoding: base64
+XTHM-MM: 39473
+X-Muni-O365-Test: ethnocentrism@corporeadministradora.com.br,csirt@muni.cz
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+X-Spam-Level: ***********
+X-Muni-Envelope-From: ethnocentrism@corporeadministradora.com.br
+BJSKVMDK-HFCNSJ-Cemjfgh: 64E7D542AF5
+Subject: Track #45161593
+X-RT-Incoming-Encryption: Not encrypted
+Date: Sat, 5 Feb 2022 16:10:19 -0000
+X-RT-Original-Encoding: utf-8
+X-RT-Interface: Email
+Content-Length: 2372
+
+<html>    
+   
+<head>   
+   
+    
+  
+  
+ <title></title>  <style>    body {   font-family: arial;    font-size: 12pt;    font-weight: normal;   color: #000000;
+
+  }
+    
+   
+  
+  
+
+
+  
+    
+  h1 {    
+    
+    
+    
+ 
+  font-size: 36px;   
+
+
+  font-style: italic;    
+    
+   
+   
+  font-weight: bold;   padding: 0px;   margin: 0px;
+ 
+ 
+  }    hr {   color: #c0c0c0;   }    span {
+    
+
+    
+ 
+  font-size: 11pt;   color: #808080;   }    
+   
+   
+    
+    
+  a {
+  
+    
+  color: #0088ff;    
+   
+
+  
+ 
+  text-decoration: underline;   }   
+ 
+    
+ 
+
+  div { 
+  
+
+   
+  background: #f0f0f0;   padding: 10px;  
+  }  
+ 
+ 
+  
+  .button {    
+  display: inline-block;   padding: 8px 16px;
+
+ 
+   
+
+  background-color: #03ad3d;   color: #ffffff;   
+    
+    
+   
+    
+  font-size: 18px;   
+
+   
+  font-weight: bold;
+ 
+  
+
+    
+  white-space: nowrap;
+  text-align: center;  
+  
+   
+  text-decoration: none;
+    
+    
+   
+
+  } 
+
+    
+  
+ </style>
+</head> <body>  <h1>World Courier</h1> Track #45161593
+   
+   
+   
+ <br /> 
+ 
+  
+ 
+   
+  
+    
+<hr>    
+  
+  
+  
+
+ <br /> 
+    
+ <span> 2/05/2022 </span>   
+   
+  
+    
+   
+    
+ <br />   <br />  <b> Our courier can't reach you. </b>     
+ 
+
+ <br />   <br /> 
+ 
+ <a href="http://bayridge.com/attributablelm.php?utm_source=8&utm_content=fc25a3" class="button"> More information </a>   <br />
+  <br />  <b> 
+   
+
+Tracking information: </b>   
+  
+  <br />
+  
+   
+  <br />
+ <div>    
+   
+
+  
+<a href="http://bayridge.com/attributablelm.php?utm_source=8&utm_content=fc25a3">http://bayridge.com/attributablelm.php?utm_source=8&utm_content=fc25a3</a> 
+ 
+    
+   
+</div> 
+
+
+  
+    
+ 
+ <br /> 
+    
+   
+   
+    
+ <span> <a href="http://bayridge.com/attributablelm.php?utm_source=8&utm_content=fc25a3" style="color:#808080">Terms of Use</a> | <a href="http://bayridge.com/attributablelm.php?utm_source=8&utm_content=fc25a3" style="color:#808080">Privacy Notice</a> | <a href="http://bayridge.com/attributablelm.php?utm_source=8&utm_content=fc25a3" style="color:#808080">Terms and Conditions of Carriage</a>  
+   
+    
+   
+
+ <br />   <br />
+This is an automated email please do not reply to this message.<br /> &copy; 2022 World Courier, LLC. </span>    
+
+  
+
+</body> </html>  

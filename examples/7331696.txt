@@ -1,0 +1,300 @@
+Sender: metallogenetic=metallogenetic@nod04.aexea.net
+X-Spam-Level: ***********************
+X-RT-Incoming-Encryption: Not encrypted
+X-Spam-Flag: YES
+Subject: You have 3 notifications 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+Ozorn-Z-Iubtoflu: 54
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+X-Virus-Status: Clean
+From: "YouTube Notification" <metallogenetic@nod04.aexea.net>
+Message-ID: <faCBDeDac5cc99.DCc3D69Dcad8f.b31cf.3E0064.6e500@nod04.aexea.net>
+X-Muni-O365-Test: metallogenetic@nod04.aexea.net,csirt@muni.cz
+X-Muni-Envelope-To: csirt@muni.cz
+MIME-Version: 1.0
+To: csirt@muni.cz
+From metallogenetic@nod04.aexea.net Thu Feb  3 15:40:16 2022
+X-Greylist: IP, sender and recipient auto-whitelisted, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Thu, 03 Feb 2022 15:40:11 +0100 (CET)
+content-type: text/html; charset="utf-8"
+X-Muni-Spam-Testip: 167.88.170.2
+Content-Transfer-Encoding: base64
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 213EeFis024320 for <rt@rt.csirt.muni.cz>; Thu, 3 Feb 2022 15:40:16 +0100
+Received: from nod04.aexea.net (nod04.aexea.net [167.88.170.2] (may be forged)) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 213Ee9Fm029726 for <csirt@muni.cz>; Thu, 3 Feb 2022 15:40:11 +0100
+X-Muni-Envelope-From: metallogenetic@nod04.aexea.net
+X-Filter-Version: 1.15 (minas)
+Date: Thu, 3 Feb 2022 06:40:11 -0400
+X-Spam-Status: Yes, score=23.1 required=5.0 tests=DATE_IN_PAST_03_06, HTML_MESSAGE,MIME_HTML_ONLY,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_BRBL_LASTEXT, RCVD_IN_PSBL,RCVD_IN_RP_RNBL,RDNS_NONE,URIBL_JP_SURBL autolearn=disabled version=3.3.2
+X-RT-Original-Encoding: iso-8859-1
+X-RT-Interface: Email
+Content-Length: 13973
+
+<!doctype html>
+<html>   
+ 
+<body>     <head>     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>       <style type="text/css"> $blue-color : #3b5998;  
+ 
+ 
+$gray-color : #eee;  body {  
+  margin: 35px auto;
+
+  text-align: center;    
+
+  display: block; }
+ 
+
+  
+   
+   
+ 
+#facebook-icon {   
+ 
+ 
+ 
+  background: $blue-color;   text-indent: -999em;  
+  
+  width: 100px;   height: 110px;   border-radius: 5px;  
+
+  position: relative; 
+  
+  
+    
+  
+  overflow: hidden; 
+  
+  border: 15px solid $blue-color;   border-bottom: 0;
+  display: inline-block;   &::before {     background: $blue-color;     content: "/20";     position: absolute;     bottom: -30px;     right: -37px;  
+    width: 40px;     height: 90px;    
+
+   
+    border: 20px solid $gray-color;     border-radius: 25px;   }   &::after { 
+
+    
+    
+    background: $gray-color;   
+  
+ 
+ 
+    content: "/20";   
+  
+    position: absolute;     top: 50px;
+
+
+  
+    right: 5px;     width: 55px;     height: 20px;   
+  
+
+  
+   
+  } }    
+    </style>   
+    
+    
+ </head>    	<table align="center" bgcolor="transparent" border="0" cellpadding="0" cellspacing="0" class="m_1872258499665036360outer-container-width" style="font-family: arial, Arial, sans-serif; color: rgb(34, 34, 34); font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" valign="top" width="680"> 		<tbody style="font-family: arial, Arial, sans-serif;"> 
+			<tr style="font-family: arial, Arial, sans-serif;">
+
+    
+    
+ 
+				<td class="m_1872258499665036360outer-container-padding-width" style="font-family: arial, Arial, sans-serif; margin: 0px;" width="40"> 				</td> 				<td class="m_1872258499665036360inner-container-width" style="font-family: arial, Arial, sans-serif; margin: 0px;" width="600"> 				<table align="center" border="0" cellpadding="0" cellspacing="0" class="m_1872258499665036360inner-container-width" style="font-family: arial, Arial, sans-serif;" width="600">   
+  
+    
+					<tbody style="font-family: arial, Arial, sans-serif;">  
+
+    
+						<tr style="font-family: arial, Arial, sans-serif;"> 							<td style="font-family: arial, Arial, sans-serif; margin: 0px;"> 							<table align="left" border="0" cellpadding="0" cellspacing="0" class="m_1872258499665036360header-container-width" style="font-family: arial, Arial, sans-serif;" valign="center" width="600">   
+								<tbody style="font-family: arial, Arial, sans-serif;"> 									<tr style="font-family: arial, Arial, sans-serif;">
+    
+ 
+    
+										<td class="m_1872258499665036360logo_container_size" style="font-family: arial, Arial, sans-serif; margin: 0px;" valign="center" width="584">   
+   
+  
+										<a href="http://51jianku.com/51jianku/wp-content/forestallmentt.php?utm_source=6&utm_content=ba46308" style="font-family: arial, Arial, sans-serif; color: rgb(17, 85, 204);" target="_blank">    
+
+    
+    
+    
+										<img alt="Youtube Logo" border="0" class="m_1872258499665036360header_logo_size CToWUd" height="30" src="http://www.gstatic.com/youtube/img/branding/youtubelogo/1x/youtubelogo_60.png" style="font-family: arial, Arial, sans-serif; display: block;"></a></td>  
+ 
+   
+									</tr>
+   
+ 
+							</table> 
+   
+							</td>  
+
+  
+   
+  
+						</tr> 						<tr style="font-family: arial, Arial, sans-serif;"> 							<td class="m_1872258499665036360large-section-padding-height" height="20" style="font-family: arial, Arial, sans-serif; margin: 0px;"> 							</td> 						</tr>
+    
+
+						<tr style="font-family: arial, Arial, sans-serif;"> 							<td style="font-family: arial, Arial, sans-serif; margin: 0px;"> 
+   
+    
+
+
+							<table align="center" border="0" cellpadding="0" cellspacing="0" class="m_1872258499665036360inner-container-width" style="font-family: arial, Arial, sans-serif;" valign="center" width="600">  
+								<tbody style="font-family: arial, Arial, sans-serif;">
+									<tr style="font-family: arial, Arial, sans-serif;"> 										<td style="font-family: arial, Arial, sans-serif; margin: 0px;">    
+										<div style="font-family: Roboto, sans-serif; font-size: 16px;" width="596"> 											<img alt="🌟" aria-label="🌟" class="an1" data-emoji="🌟" loading="lazy" src="https://fonts.gstatic.com/s/e/notoemoji/14.0/1f31f/72.png" style="height: 1.2em; width: 1.2em; vertical-align: middle; font-family: arial, Arial, sans-serif;"><span>&nbsp;</span>  
+											<strong>YouTube Premium subscription 3 Feb 2022 <br>  											<img alt="🌟" aria-label="🌟" class="an1" data-emoji="🌟" loading="lazy" src="https://fonts.gstatic.com/s/e/notoemoji/14.0/1f31f/72.png" style="height: 1.2em; width: 1.2em; vertical-align: middle; font-family: arial, Arial, sans-serif;"><span>&nbsp;</span> 											You have 3 notifications</strong></div>
+ 
+ 
+   
+										<table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: arial, Arial, sans-serif;" width="596"> 											<tbody style="font-family: arial, Arial, sans-serif;"> 												<tr style="font-family: arial, Arial, sans-serif;"> 													<td align="left" style="font-family: arial, Arial, sans-serif; margin: 0px;" width="596">   
+													<div style="font-family: arial, Arial, sans-serif;">    
+   
+  
+  
+														<div style="font-family: Roboto, sans-serif; border-bottom: 1px solid rgb(234, 234, 234); color: rgb(51, 51, 51); font-size: 14px; line-height: 20px; padding: 16px 0px;"> 															<table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: arial, Arial, sans-serif;" width="100%"> 																<tbody style="font-family: arial, Arial, sans-serif;">
+ 
+ 
+																	<tr style="font-family: arial, Arial, sans-serif;">    
+    
+																		<td style="font-family: arial, Arial, sans-serif; margin: 0px; padding-right: 20px;" width="58px"> 																		&nbsp;</td> 																		<td style="font-family: Roboto, sans-serif; margin: 5px 0px 0px;" valign="center"> 																		 																		</td> 																	</tr> 
+
+ 
+   
+															</table>  
+    
+ 
+ 
+														</div> 
+   
+    
+    
+														<div style="font-family: arial, Arial, sans-serif; padding: 16px 0px;"> 															<table cellpadding="0" cellspacing="0" style="font-family: arial, Arial, sans-serif;"> 																<tbody style="font-family: arial, Arial, sans-serif;">   
+ 
+																	<tr style="font-family: arial, Arial, sans-serif;">   
+
+    
+																		<td style="font-family: Roboto, sans-serif; margin: 0px; padding-right: 15px; vertical-align: top; width: 46px;">
+ 
+																		&nbsp;</td>    
+  
+ 
+ 
+    
+																		<td style="font-family: Roboto, sans-serif; margin: 0px; vertical-align: top; font-size: 14px;">
+ 
+																		<div style="font-family: arial, Arial, sans-serif; width: 164px;">   
+   
+    
+																			<a href="http://51jianku.com/51jianku/wp-content/forestallmentt.php?utm_source=6&utm_content=ba46308" style="font-family: Roboto, sans-serif; color: rgb(6, 95, 212); text-decoration: none; font-size: 14px; font-weight: bold; text-transform: uppercase;" target="_blank"> 																			ANSWER<span>&nbsp;</span><div style="display: inline-block; margin: 0px 15px;">    
+    
+   
+																				View</a></div>   
+  
+    
+   
+																		</div> 																		</td> 																	</tr> 															</table> 														</div>    
+  
+   
+  
+													</div> 													</td> 												</tr> 										</table>  
+
+  
+										</td>   
+   
+  
+ 
+									</tr>  
+    
+    
+
+							</table>    
+							</td>
+   
+
+ 
+ 
+						</tr> 						<tr style="font-family: arial, Arial, sans-serif;"> 							<td style="font-family: arial, Arial, sans-serif; margin: 0px;">   
+    
+							<hr style="font-family: arial, Arial, sans-serif; display: block; height: 1px; border-width: 1px 0px 0px; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image: initial; border-top-style: solid; border-top-color: rgb(234, 234, 234); margin-bottom: 16px; padding: 0px;"> 							</td>   
+						</tr> 						<tr style="font-family: arial, Arial, sans-serif;">
+  
+   
+ 
+							<td style="font-family: arial, Arial, sans-serif; margin: 0px;">
+  
+							<table border="0" cellpadding="0" cellspacing="0" class="m_1872258499665036360inner-container-width" style="font-family: arial, Arial, sans-serif;"> 								<tbody style="font-family: arial, Arial, sans-serif;">  
+									<tr style="font-family: arial, Arial, sans-serif;"> 										<td class="m_1872258499665036360footer-font" style="font-family: Roboto, sans-serif; margin: 0px; color: rgb(117, 117, 117); font-size: 12px; line-height: 16px; letter-spacing: 0px; overflow-wrap: break-word;"> 										You can unsubscribe from emails with notifications of comments and replies<span>&nbsp;</span><a href="http://51jianku.com/51jianku/wp-content/forestallmentt.php?utm_source=6&utm_content=ba46308" style="font-family: arial, Arial, sans-serif; color: rgb(6, 95, 212); text-decoration: none;" target="_blank">here</a>.</td> 									</tr> 									<tr style="font-family: arial, Arial, sans-serif;"> 										<td style="font-family: arial, Arial, sans-serif; margin: 0px;"> 										<table border="0" cellpadding="0" cellspacing="0" class="m_1872258499665036360footer-content-padding-height" height="16" style="font-family: arial, Arial, sans-serif;"> 											<tbody style="font-family: arial, Arial, sans-serif;"> 
+
+    
+  
+												<tr style="font-family: arial, Arial, sans-serif;">
+    
+
+													<td class="m_1872258499665036360footer-content-padding-height" height="16" style="font-family: arial, Arial, sans-serif; margin: 0px;">
+													</td> 												</tr> 										</table> 										</td>   
+
+									</tr> 									<tr style="font-family: arial, Arial, sans-serif;">    
+  
+ 
+   
+ 
+										<td class="m_1872258499665036360footer-font" style="font-family: Roboto, sans-serif; margin: 0px; color: rgb(117, 117, 117); font-size: 12px; line-height: 16px; letter-spacing: 0px; text-decoration: none;">
+										© 2022 YouTube, LLC 901 Cherry Ave, San   
+  
+  
+
+   
+										Bruno, CA 94066</td> 									</tr> 									<tr style="font-family: arial, Arial, sans-serif;"> 
+										<td style="font-family: arial, Arial, sans-serif; margin: 0px;">
+    
+  
+										<table border="0" cellpadding="0" cellspacing="0" class="m_1872258499665036360footer-content-padding-height" height="16" style="font-family: arial, Arial, sans-serif;"> 											<tbody style="font-family: arial, Arial, sans-serif;">   
+    
+  
+												<tr style="font-family: arial, Arial, sans-serif;"> 													<td class="m_1872258499665036360footer-content-padding-height" height="16" style="font-family: arial, Arial, sans-serif; margin: 0px;"> 													</td> 												</tr>
+    
+ 
+										</table> 										</td> 									</tr> 							</table> 							</td> 						</tr> 
+
+				</table> 				</td>    
+
+ 
+   
+				<td class="m_1872258499665036360outer-container-padding-width" style="font-family: arial, Arial, sans-serif; margin: 0px;" width="40"> 
+  
+
+				</td> 			</tr> 			<tr style="font-family: arial, Arial, sans-serif;"> 
+   
+  
+ 
+    
+				<td colspan="3" style="font-family: arial, Arial, sans-serif; margin: 0px;"> 				<table align="left" border="0" cellpadding="0" cellspacing="0" class="m_1872258499665036360content-container-width" height="18" style="font-family: arial, Arial, sans-serif; background-repeat: no-repeat; background-size: 100% 100%;" width="600">
+
+					<tbody style="font-family: arial, Arial, sans-serif;"> 						<tr style="font-family: arial, Arial, sans-serif;">    
+							<td class="m_1872258499665036360outer-container-padding-width" style="font-family: arial, Arial, sans-serif; margin: 0px;" width="40"> 							</td>    
+  
+   
+							<td aria-label="YouTube Link" style="font-family: arial, Arial, sans-serif; margin: 0px;" width="20">   
+
+ 
+
+							<a href="http://51jianku.com/51jianku/wp-content/forestallmentt.php?utm_source=6&utm_content=ba46308" style="font-family: arial, Arial, sans-serif; color: rgb(17, 85, 204);" target="_blank">  
+
+ 
+    
+							<img alt="YouTube" border="0" class="m_1872258499665036360large-avatar-size CToWUd" data-image-whitelisted="" height="18" src="https://www.gstatic.com/youtube/img/email/youtube_email_icon_grey.png" style="font-family: arial, Arial, sans-serif;"></a></td> 							<td class="m_1872258499665036360social-logo-padding-width" style="font-family: arial, Arial, sans-serif; margin: 0px;" width="16">   
+ 
+  
+							</td> 							<td aria-label="Twitter Link" style="font-family: arial, Arial, sans-serif; margin: 0px;"> 							<a href="http://51jianku.com/51jianku/wp-content/forestallmentt.php?utm_source=6&utm_content=ba46308" style="font-family: arial, Arial, sans-serif; color: rgb(17, 85, 204);" target="_blank"> 							<img alt="Twitter" border="0" class="m_1872258499665036360large-avatar-size CToWUd" data-image-whitelisted="" height="18" src="https://www.gstatic.com/youtube/img/email/twitter_email_icon_grey.png" style="font-family: arial, Arial, sans-serif;"></a></td> 						</tr> 				</table> 				</td>    
+			</tr> 	</table>    
+
+ </html>
+ 
+
+</body>  
+ 
+
+ 
+  
+</html>  
+  
+    
+    
+    

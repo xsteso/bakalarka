@@ -1,0 +1,67 @@
+Reply-To: ilanasoloshneor@daum.net
+From: "Ilana Solomon Shneor(Mrs.)" <celebraciones@bayamonpr.org>
+X-Muni-Envelope-From: celebraciones@bayamonpr.org
+X-Muni-O365-Test: celebraciones@bayamonpr.org,abuse@muni.cz
+Date: Mon, 14 Feb 2022 06:17:13 +0000
+X-Filter-Version: 1.15 (minas)
+X-Originating-Ip: [3.112.228.22]
+X-Spam-Flag: YES
+From celebraciones@bayamonpr.org Mon Feb 14 07:17:37 2022
+Content-Transfer-Encoding: 7bit
+Message-ID: <54fe4375-5a6c-4b65-bd49-6d0fb317cfe5@VM-MBMSGHUB.MunBay.local>
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+Subject: 13/2/2022 
+X-Spam-Level: ***********
+X-Greylist: Sender passed SPF test, not delayed by milter-greylist-4.3.9 (minas.ics.muni.cz [147.251.4.35]); Mon, 14 Feb 2022 07:17:32 +0100 (CET)
+Received: from minas.ics.muni.cz (minas.ics.muni.cz [147.251.4.46]) by rt.csirt.muni.cz (8.15.2/8.15.2/Debian-8+deb9u1) with ESMTP id 21E6Haak003268 for <rt@rt.csirt.muni.cz>; Mon, 14 Feb 2022 07:17:37 +0100
+Received: from webmail.bayamonpr.org (webmail.bayamonpr.org [173.215.169.9]) by minas.ics.muni.cz (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id 21E6HIhV062318 (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT) for <abuse@muni.cz>; Mon, 14 Feb 2022 07:17:31 +0100
+Received: from User (3.112.228.22) by VM-MBMSGHUB.MunBay.local (10.10.220.247) with Microsoft SMTP Server id 14.3.487.0; Mon, 14 Feb 2022 02:17:15 -0400
+X-Muni-Spam-Testip: 173.215.169.9
+X-Virus-Scanned: clamav-milter 0.99.4 at minas
+X-Spam-Status: Yes, score=11.2 required=5.0 tests=ADVANCE_FEE_3_NEW, ADVANCE_FEE_4_NEW,ADVANCE_FEE_5_NEW,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML, FORGED_OUTLOOK_TAGS,FSL_CTYPE_WIN1251,FSL_UA,FSL_XM_419,HTML_MESSAGE, MIME_HTML_ONLY,NSL_RCVD_FROM_USER,SPF_HELO_PASS,SPF_PASS,T_RP_MATCHES_RCVD autolearn=disabled version=3.3.2
+X-RT-Incoming-Encryption: Not encrypted
+To: 
+X-Muni-Envelope-To: abuse@muni.cz
+X-Priority: 3
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on minas.ics.muni.cz
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Msmail-Priority: Normal
+content-type: text/html; charset="utf-8"
+MIME-Version: 1.0
+X-Virus-Status: Clean
+X-RT-Original-Encoding: cp1251
+X-RT-Interface: Email
+Content-Length: 1554
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Hi Dear,</DIV>
+<DIV>
+ </DIV>
+<DIV>
+My apology as I am contacting you through email; It is because it serves as the fastest and more convenient way to get to you, my name is Ilana Solomon Shneor a widow from Israel born in Austria. I understand we have not known each other before now, but my desire to invest in your country inspired me to contact you as I believe that our world is a global village where one can establish a good business and investment relationship before meeting each other physically.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+I have a proposition involving a fund transaction unfinished by my late Husband who died as the result of the Coronavirus disease (COVID-19). We planned to invest in the Dubai 2020 Expo before his death, due to my health condition I cant handle the transaction. I solicit partnership with companies/individual business and NGO foundations that lost so much in the cause of the COVID-19 situation. My desire is to partner with profitable businesses.&nbsp; </DIV>
+<DIV>
+ </DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+I will appreciate your reply for more details about me and the transaction on how we can proceed to move the fund to you by the Bank under a contract. Please Respond to me on my private email: ilanasshneorn@gmail.com</DIV>
+<DIV>
+ </DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Sincerely,</DIV>
+<DIV>
+Ilana Solomon Shneor(Mrs.)</DIV>
+</FONT>
+</BODY></HTML>
